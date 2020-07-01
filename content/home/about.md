@@ -12,7 +12,7 @@ weight = 20  # Order that this section will appear in.
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 +++
-# The Opportunity
+## The Opportunity
 Math<sup>Industry</sup> (Math to power industry) is a professional development
 school positioned to benefit Canadian industry because:
 
@@ -30,3 +30,24 @@ faculty and postdocs will essentially eliminate a career pathway for a
 generation of young researchers. This talent pool should be effectively
 redirected toward activities that drive Canada’s economic recovery.
 
+The important role that mathematical scientists play in defining government
+policy responses to the pandemic is analogous to the role these experts should
+play across Canada’s industry sectors. Governmental decisions regarding when or
+how to optimally implement policies to flatten the curve rely upon predictive
+models, data analysis, and other mathematical insights. Effective business
+decision-making similarly requires expertise in modeling, computation,
+statistics, optimization (mathematical sciences). Studies by Deloitte have
+revealed the enormous impact the mathematical sciences have on the UK Economy
+and the Dutch Economy. Goals for the Math<sup>Industry</sup> include economic
+stimulation during and after the COVID-19 pandemic, placement of recent
+mathematical science PhDs into jobs in western Canada, and an ongoing
+improvement to Canada’s Business Enterprise Research and Development capacity.
+
+## The Plan
+The Pacific Institute for the Mathematical Sciences (PIMS) and partners are
+offering a rapid response program to train and place young mathematical
+scientists into jobs in important industry sectors in western Canada (agrifood,
+energy, forestry, health care, mining). This program will start with a training
+bootcamp (software best practices, business, communications, project
+management), group collaborations with industry partners, and create a funnel
+leading to job placements in industry.

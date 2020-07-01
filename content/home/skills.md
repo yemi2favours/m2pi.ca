@@ -15,22 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Training Bootcamps"
+  description = "Certified training programs"
+
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Tech Skills Training"
+  description = "Agile software development, virtual collaboration, open source toolchains"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Business Skills Training"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
