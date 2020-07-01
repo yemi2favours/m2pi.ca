@@ -21,6 +21,6 @@ columns = "2"
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://quantsight.ca" target="_blank"><img src="img/quantsight.png" alt="QuantSight" /></a>
+    <a href="https://www.quantsight.com" target="_blank"><img src="img/quantsight.png" alt="QuantSight" /></a>
 </div>
 </div>
