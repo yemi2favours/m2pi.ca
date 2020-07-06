@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS Site Director
+role: PIMS University of Calgary Site Director
 
 Organizations/Affiliations:
 organizations:
