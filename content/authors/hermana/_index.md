@@ -50,3 +50,9 @@ user_groups:
 - Administration
 
 ---
+Currently my research activity revolves around realization problems in ordinary
+and integral representation theory of groups and closely-related rings, which
+include reality-based algebras/table algebras/adjacency algebras of association
+schemes, as well as Hopf algebras/quantum groups. I have ongoing collaborative
+projects on the representation theory of classical groups over finite local
+rings.

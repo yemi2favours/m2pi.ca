@@ -48,3 +48,7 @@ user_groups:
 - Administration
 
 ---
+My subject areas of research expertise are applied mathematics and computer
+science, in particular algorithms and software for continuous mathematics and
+scientific computation. I am involved in several projects, many of which span
+more than one field of application.
