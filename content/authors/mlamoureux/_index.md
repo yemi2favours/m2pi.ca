@@ -10,29 +10,30 @@ authors:
 superuser: false
 
 # Role/position
-role: Callysto Program Manager
+role: Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
 - name: Pacific Institute for the Mathematical Sciences
   url: "https://www.pims.math.ca"
+- name: University of Calgary
+  url: "https://ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Scientific Computing
-- Interactive Computing
-- Seismic Imaging
-- Modelling and Simulation
-- Functional and Harmonic Analysis
-- Computation methods in partial differential equations
+- Mathematics and it's applications
+- Functional analysis
+- Numerical methods
+- Geophysics
+- Signal processing
 
 education:
   courses:
   - course: Ph.D Mathemtics
     institution: University of California, Berkeley
-    year:
+    year: 1988
   - course: Msc Mathematics 
     institution: Stanford University
   - course: B.Sc Mathematics
