@@ -4,13 +4,13 @@ title: Ruth Situma
 
 # Username (this should match the folder name)
 authors:
-- bdurston
+- rsituma
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PIMS Program Manager
+role: Program Manager
 
 Organizations/Affiliations:
 organizations:
@@ -21,15 +21,18 @@ organizations:
 bio: 
 
 interests:
-- Event Coordination
-- Business Administration
+- Program/Project Development
+- Business Strategy and Administration
 
 
 education:
   courses:
-  - course: BA
+  - course: MBA
     institution: Simon Fraser University
-    year:
+    year: 2019
+  - course: MA
+    institution: University of Guelph
+    year: 2011
 
 social:
 
