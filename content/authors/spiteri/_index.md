@@ -23,8 +23,10 @@ organizations:
 bio: 
 
 interests:
+- Numerical Analysis
 - Scientific Computing
-- Applied Mathematics and Computer Science
+- High Performance Computing
+- Mathematical Software
 
 education:
   courses:

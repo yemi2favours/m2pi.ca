@@ -34,8 +34,8 @@ education:
     year: 1995
   - course: M.Sc in Mathematics
     institution: University of Alberta
-    year: 1990
-  - course: B.Sc in Mathematics
+    year: 1992
+  - course: B.Ed in Mathematics
     institution: University of Lethbridge
     year: 1988
 
