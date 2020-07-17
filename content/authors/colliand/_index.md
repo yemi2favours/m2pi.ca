@@ -35,10 +35,8 @@ education:
   courses:
   - course: PhD in Mathematics
     institution: University of Illinois
-    year: 1997
   - course: BA in Mathematics and Physics
     institution: Macalester College
-    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

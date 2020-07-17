@@ -17,10 +17,10 @@ role: Committee Chair
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of Calgary
   url: "https://ucalgary.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
@@ -34,10 +34,8 @@ education:
   courses:
   - course: PhD in Mathematics
     institution: University of Illinois at Urbana-Champaign
-    year: 2001
   - course: BA in Mathematics
     institution: Vassar College
-    year: 1995
 
 social:
 

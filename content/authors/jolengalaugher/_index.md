@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Industry & Community Liaison Officer,
+role: Industry & Community Liaison Officer
 
 Organizations/Affiliations:
 organizations:
@@ -34,7 +34,6 @@ education:
     institution: McMaster University
   - course: B.A (Hons)
     institution: University of Winipeg
-    year: 
 
 social:
 

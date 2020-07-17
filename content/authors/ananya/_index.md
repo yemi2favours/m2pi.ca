@@ -29,10 +29,8 @@ education:
   courses:
   - course: M.A. Philosophy
     institution: University of Waterloo
-    year: 2016
   - course: B.A. Philosophy
     institution: University of Waterloo
-    year: 2014
 
 social:
 

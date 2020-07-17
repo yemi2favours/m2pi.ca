@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, Director of Center for High Performance Computing
+role: PIMS Site Director
 
 Organizations/Affiliations:
 organizations:
@@ -32,10 +32,8 @@ education:
   courses:
   - course: Ph.D Applied Mathematics 
     institution: University of British Columbia
-    year: 1997
   - course: B.Sc(Hons.) in Applied Mathematics
     institution: University of Western Ontario
-    year: 1990
 
 social:
 

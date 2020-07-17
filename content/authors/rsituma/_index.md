@@ -32,10 +32,8 @@ education:
   courses:
   - course: MBA
     institution: Simon Fraser University
-    year: 2019
   - course: MA
     institution: University of Guelph
-    year: 2011
 
 social:
 

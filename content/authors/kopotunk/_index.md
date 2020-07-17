@@ -34,7 +34,6 @@ education:
   courses:
   - course: Ph.D Mathemtics
     institution: University of Alberta
-    year:
   - course: Msc Mathematics 
     institution: Kiev
 

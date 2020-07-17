@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS University of Regina Site Director
+role: PIMS Site Director
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://www.pims.math.ca"
 - name: University of Regina
   url: "https://uregina.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://www.pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -31,13 +31,10 @@ education:
   courses:
   - course: Ph.D in Mathematical Sciences
     institution: University of Alberta
-    year: 1995
   - course: M.Sc in Mathematics
     institution: University of Alberta
-    year: 1992
   - course: B.Ed in Mathematics
     institution: University of Lethbridge
-    year: 1988
 
 social:
 

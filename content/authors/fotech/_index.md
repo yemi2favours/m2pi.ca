@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Office of the CTO at Fotech Solutions
+role: Office of the CTO
 
 Organizations/Affiliations:
 organizations:
@@ -32,10 +32,8 @@ education:
   courses:
   - course: Masters Degree - Applied Mathematics
     institution: University of Calgary
-    year: 2011
   - course: BSc in Applied Mathematics
     institution: University of Calgary
-    year: 2009
 
 social:
 

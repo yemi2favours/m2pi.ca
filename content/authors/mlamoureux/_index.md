@@ -33,12 +33,10 @@ education:
   courses:
   - course: Ph.D Mathemtics
     institution: University of California, Berkeley
-    year: 1988
   - course: Msc Mathematics 
     institution: Stanford University
   - course: B.Sc Mathematics
     institution: University of Alberta
-    year:
 
 social:
 
