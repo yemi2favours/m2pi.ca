@@ -1,53 +1,47 @@
 ---
 # Display name
-title: Kristine Bauer
-
-# Weight
-weight: 1
+title: Ananya Chattoraj
 
 # Username (this should match the folder name)
 authors:
-- bauerk
+- ananya
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Committee Chair
+role: Doctoral Student, Sessional Instructor
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of Calgary
   url: "https://ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
+bio: 
 
 interests:
-- Algebraic topology and homotopy theory
-- Calculus of functors
-- Homological algebra
+- Philosophy of Science
+- Philosophy of Technology
+
 
 education:
   courses:
-  - course: PhD in Mathematics
-    institution: University of Illinois at Urbana-Champaign
-    year: 2001
-  - course: BA in Mathematics
-    institution: Vassar College
-    year: 1995
+  - course: M.A. Philosophy
+    institution: University of Waterloo
+    year: 2016
+  - course: B.A. Philosophy
+    institution: University of Waterloo
+    year: 2014
 
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bauerk@ucalgary.ca"
+email: "ananya.chattoraj@ucalgary.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizing Committee
 - Instructors
 
 ---
