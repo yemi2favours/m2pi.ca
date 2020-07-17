@@ -2,6 +2,9 @@
 # Display name
 title: Kristine Bauer
 
+# Weight
+weight: 1
+
 # Username (this should match the folder name)
 authors:
 - bauerk
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS University of Calgary Site Director
+role: Committee Chair
 
 Organizations/Affiliations:
 organizations:
@@ -44,7 +47,6 @@ email: "bauerk@ucalgary.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Leadership
-- Administration
+- Organizing Committee
 
 ---

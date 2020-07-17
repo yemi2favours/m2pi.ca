@@ -2,6 +2,9 @@
 # Display name
 title: James Colliander 
 
+# Weight
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - colliand
@@ -60,7 +63,6 @@ email: "colliand@crowdmark.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Leadership
-- Administration
+- Organizing Committee
 
 ---

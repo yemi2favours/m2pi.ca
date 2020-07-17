@@ -2,6 +2,9 @@
 # Display name
 title: Ruth Situma
 
+# Weight
+weight: 20
+
 # Username (this should match the folder name)
 authors:
 - rsituma
@@ -42,7 +45,7 @@ email: "ruths@pims.math.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administration
+- Organizing Committee
 
 ---
 Ruth is the Program Manager for the Pacific Institute for the Mathematical Sciences. Ruth manages the annual PIMS programs and summer project. Prior to joining PIMS She was a researcher at the Guelph Institute for Community Engaged Learning and with the Chief Nursing Officer at Vancouver Coastal Health. She has a Masters in Political Sciences from Guelph University and an MBA from Simon Fraser University. Her research interests include government policy, strategy and entrepreneurship in bottom of the pyramid (BOP) Markets. An avid runner, she is currently a running coach in training.
