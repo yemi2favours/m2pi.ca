@@ -41,8 +41,9 @@ email: "iana@pims.math.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizing Committee
-- Instructors
+- committee: organizing
+- committee: instructors
+  role: Python Instructor
 
 ---
 Ian is the Technology Manager at the Pacific Institute for the Mathematical

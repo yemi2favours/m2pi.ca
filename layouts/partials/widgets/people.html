@@ -22,54 +22,48 @@
 
   <ul class="nav nav-pills nav-fill nav-justified" id="committeTabs" role="tablist">
   {{ range $page.Params.content.user_groups }}
-  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
-
-  {{if $query}}
   <li class="nav-item">
-    <a class="nav-link {{ if eq . "Organizing Committee" }} active{{ end }}" id="{{ . | urlize }}-tab" data-toggle="tab" href="#{{ . | urlize}}" role="tab" aria-controls="{{ . }}" aria-selected="true">{{ . | humanize }}</a>
+    <a class="nav-link {{ if eq .id "organizing" }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="true">{{ .name | humanize }}</a>
   </li>
-  {{ end }}
   {{ end }} 
   </ul>
   <div class="tab-content">
-  {{ range $page.Params.content.user_groups }}
-  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
-  <div class="tab-pane fade{{ if eq . "Organizing Committee" }} in active show{{ end }}" id="{{ . | urlize }}" role="tabpanel" aria-labelledby="{{ . }}-tab">
-    <div class="row auto-clear">
-    {{ range $query }}
-    {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-    {{/* Get link to user's profile page. */}}
-    {{ $link := "" }}
-    {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
-      {{ $link = .RelPermalink }}
-    {{ end }}
-    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 people-person">
-      {{ $src := "" }}
-      {{ if site.Params.avatar.gravatar }}
-        {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-      {{ else if $avatar }}
-        {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-        {{ $src = $avatar_image.RelPermalink }}
-      {{ end }}
-      {{ if $src }}
-        {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-        {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
-      {{ end }}
-
-      <div class="portrait-title">
-        <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-        {{ with .Params.organizations }}
-        {{ range $idx, $key := . }}
-        {{ if eq $idx 0 }}<h3>{{ .name }}</h3>{{ end }}
+    {{ range $committee := $page.Params.content.user_groups }}
+    <div class="tab-pane fade{{ if eq .id "organizing" }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
+      <div class="row auto-clear">
+        {{ range $people := where site.Pages "Section" "authors" }}
+        {{ if isset .Params "user_groups" }}
+        {{ range $groups := .Params.user_groups }}
+        {{ if eq .committee $committee.id }}
+        {{ $avatar := ($people.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{/* Get link to user's profile page. */}}
+        {{ $link := "" }}
+        {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split $people.Path).Dir)) }}
+          {{ $link = .RelPermalink }}
+        {{ end }} {{/* end with site.GetPage */}}
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 people-person">
+        {{ $src := "" }}
+        {{ if site.Params.avatar.gravatar }}
+          {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+        {{ else if $avatar }}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          {{ $src = $avatar_image.RelPermalink }}
         {{ end }}
+        {{ if $src }}
+          {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+          {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
-        {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-        {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-      </div>
-    </div>
-    {{ end }}
-    </div>
-  </div>
-  {{ end }}
-  </div>
-</div>
+          <div class="portrait-title">
+            <h2>{{with $link}}<a href="{{.}}">{{end}}{{ $people.Title }}{{if $link}}</a>{{end}}</h2>
+            <p>{{ $groups.role }}</p>
+           </div>
+        </div><!-- people-person -->
+        {{ end }} {{/* end if condition on committee membership */}}
+        {{ end }} {{/* end loop on user groups */}}
+        {{ end }} {{/* end if condition on group existence */}}
+        {{ end }} {{/* end range over authors */}}
+      </div> <!-- row -->
+    </div> <!-- tab pane -->
+    {{ end }} {{/* end loop over committees */}}
+  </div> <!-- tab content -->
+</div><!-- people widget -->
