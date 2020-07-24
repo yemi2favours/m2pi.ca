@@ -20,10 +20,10 @@
   </div>
   {{ end }}
 
-  <ul class="nav nav-pills nav-fill nav-justified" id="committeTabs" role="tablist">
+  <ul class="nav nav-pills nav-fill nav-justified" id="committeeTabs" role="tablist">
   {{ range $page.Params.content.user_groups }}
   <li class="nav-item">
-    <a class="nav-link {{ if eq .id "organizing" }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="true">{{ .name | humanize }}</a>
+    <a class="nav-link {{ if eq .id "organizing" }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="{{ if eq .id "organizing" }}true{{ else }}false{{ end }}">{{ .name | humanize }}</a>
   </li>
   {{ end }} 
   </ul>

@@ -49,6 +49,13 @@
     transition: opacity .5s linear;
 }
 
+.tab-content > .tab-pane:not(.active),
+.pill-content > .pill-pane:not(.active) {
+    display: block;
+    height: 0;
+    overflow-y: hidden;
+}
+
 section#skills .featurette-icon {
     color: #2962ff;
 }
