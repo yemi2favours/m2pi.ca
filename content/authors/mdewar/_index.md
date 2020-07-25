@@ -10,10 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Adjunct Research Professor
+role: Head, Tutte Institute for Mathematics and Computing
 
 Organizations/Affiliations:
 organizations:
+- name: Tutte Institute for Mathematics and Computing
+  url: "https://www.cse-cst.gc.ca/en/tutte-institute"
 - name: University of Carelton
   url: "https://carleton.ca"
 
@@ -21,8 +23,18 @@ organizations:
 bio: 
 
 interests:
+- Design Theory
+- Graph Theory
 
 education:
+  courses:
+  - course: Ph.D in Mathematics
+    institution: Carleton University
+  - course: M.Sc in Mathematics
+    institution: Dalhousie University
+  - course: B.Sc in Mathematics
+    institution: University of King's College
+
 
 social:
 
