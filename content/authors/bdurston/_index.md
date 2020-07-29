@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Communications Manager
+role: PIMS Communications Coorinator
 
 Organizations/Affiliations:
 organizations:
@@ -21,15 +21,17 @@ organizations:
 bio: 
 
 interests:
-- Communications
+- Brand Management
+- Promotion
+- Content Creation
 
 
 education:
   courses:
-  - course: Diploma in Business Administration, Marketing
-    institution: University of Alberta
-  - course: BA Professional Communications
-    institution: Athabasca University
+  - course: Diploma in Business Administration
+    institution: Georgian College
+  - course: Diploma in Marketing
+    institution: Georgian College
 
 social:
 

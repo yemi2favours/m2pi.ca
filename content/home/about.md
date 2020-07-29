@@ -13,7 +13,7 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 +++
 ## The Opportunity
-Math<sup>Industry</sup> (Math to power industry) is a professional development
+<em>Math<sup>Industry</sup></em> (Math to power industry) is a professional development
 school positioned to benefit Canadian industry because:
 
 1. Recent PhDs and Postdocs in the mathematical sciences are a national resource
@@ -38,14 +38,14 @@ models, data analysis, and other mathematical insights. Effective business
 decision-making similarly requires expertise in modeling, computation,
 statistics, optimization (mathematical sciences). Studies by Deloitte have
 revealed the enormous impact the mathematical sciences have on the UK Economy
-and the Dutch Economy. Goals for the Math<sup>Industry</sup> include economic
+and the Dutch Economy. Goals for the <em>Math<sup>Industry</sup></em> include economic
 stimulation during and after the COVID-19 pandemic, placement of recent
 mathematical science PhDs into jobs in western Canada, and an ongoing
 improvement to Canada’s Business Enterprise Research and Development capacity.
 
 ## The Plan
 The Pacific Institute for the Mathematical Sciences (PIMS) and partners are
-offering a rapid response program to train and place young mathematical
+offering a virtual rapid response program to train and place young mathematical
 scientists into jobs in important industry sectors in western Canada (agrifood,
 energy, forestry, health care, mining). This program will start with a training
 bootcamp (software best practices, business, communications, project

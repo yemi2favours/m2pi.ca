@@ -31,7 +31,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Business Skills Training"
-  description = ""
+  description = "communication skills, project management, effective teams &amp; ethics"
 
 # Uncomment to use emoji icons.
 # [[feature]]
