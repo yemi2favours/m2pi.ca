@@ -2,6 +2,9 @@
 # Display name
 title: James Colliander 
 
+# Weight
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - colliand
@@ -32,10 +35,8 @@ education:
   courses:
   - course: PhD in Mathematics
     institution: University of Illinois
-    year: 1997
   - course: BA in Mathematics and Physics
     institution: Macalester College
-    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,6 +61,6 @@ email: "colliand@crowdmark.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administration
-
+- committee: organizing
+  role: PIMS Director
 ---

@@ -2,6 +2,9 @@
 # Display name
 title: Kristine Bauer
 
+# Weight
+weight: 1
+
 # Username (this should match the folder name)
 authors:
 - bauerk
@@ -10,14 +13,14 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS University of Calgary Site Director
+role: Committee Chair
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of Calgary
   url: "https://ucalgary.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
@@ -31,10 +34,8 @@ education:
   courses:
   - course: PhD in Mathematics
     institution: University of Illinois at Urbana-Champaign
-    year: 2001
   - course: BA in Mathematics
     institution: Vassar College
-    year: 1995
 
 social:
 
@@ -44,6 +45,8 @@ email: "bauerk@ucalgary.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administration
-
+- committee: organizing
+  role: Chair
+- committee: instructors
+  role: Effective Teams Instructor
 ---
