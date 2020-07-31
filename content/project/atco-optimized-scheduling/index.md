@@ -43,7 +43,7 @@ math: true
 ---
 # Optimization of Employee Work Schedule,
 
-### Industry mentor: Vakhtang Putkaradze and Kui Pan
+### Industry mentors: Vakhtang Putkaradze and Kui Pan
  
 Due to the outbreak of COVID-19 around the world, and government policies
 implemented as a response to the outbreak, many corporations have chosen to let
