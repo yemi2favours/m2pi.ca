@@ -3,7 +3,7 @@
 
 title: "Fotech Solutions"
 summary: ""
-authors: []
+authors: [fotech]
 tags: []
 categories: []
 date: 2020-07-23T16:58:50-07:00
