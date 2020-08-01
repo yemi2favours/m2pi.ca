@@ -2,7 +2,18 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ATCO - Optimized Scheduling"
-summary: ""
+summary: "Due to the outbreak of Covid-19 around the world, and government
+policies implemented as a response to the outbreak, many corporations have
+chosen to let their employees work from home to prevent the spread of the
+disease. In order to safely re-open the economy, one of the recommendations from
+health authorities is to allow only a limited percentage of workers in the
+workplace at any specific time.  Given these constraints, it is useful for
+companies to arrange  flexible work schedule so the employees go to offices
+during reasonable working hours, and at the same time reduce their commute time
+to improve their productivity. In this problem, you will help a model business
+to design and optimize their employees’ working-at-office schedule using a
+combination of criteria which you deem to be important, and real-life data such
+as traffic, limitation on work schedule hours, commuting time and others."
 authors: []
 tags: []
 categories: []

@@ -2,7 +2,19 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ATCO - Vertical Axis Wind Turbines"
-summary: ""
+summary: "Among the renewable and clean energy technologies, wind energy is one
+of the most efficient, costing 1–2 cents per kilowatt-hour after the production
+tax credit by governments. While natural wind speeds over various continents in
+the world span from 0 to 20 m/s, the Vertical Axis Wind Turbines (VAWT) placed
+on highway medians make it possible to utilize consistently higher wind speeds
+due to vehicle motion. Additionally, the energy generated out of these wind
+turbines is reported to increase multi-fold due to the shearing winds generated
+on both sides of the medians by the on-going traffic [3]. Your task will be to
+optimize the positioning of turbines to achieve optimal results using criteria
+you deem to be important, such as output power, ease of installation/repair,
+proximity to consumers, additive effects from positioning, etc, using real-life
+traffic, geographical and weather data, and subsequently investigate economic
+feasibility of implementation of this technology."
 authors: []
 tags: []
 categories: []

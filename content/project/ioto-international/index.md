@@ -2,7 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ioto International"
-summary: ""
+summary: "Performance metrics in sports have seen remarkable growth and
+development.  What if we turned some of these mathematical tools on political
+performance?  The goal of this project is to analyze data which are related to
+the progression of a bill into law in the US. A background in statistics or
+graph theory would be helpful.  Some background in computer programming or data
+science may be helpful, but not necessary."
 authors: []
 tags: []
 categories: []

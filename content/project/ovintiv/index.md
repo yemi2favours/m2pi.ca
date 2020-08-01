@@ -2,7 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ovintiv"
-summary: ""
+summary: "In March 2020, the WTI futures contract settled below zero for the
+first time in the contract's history.  Many market participants apply the Black
+76 model or a variation of this model to calculate the value of the options on
+this futures contract.  However, Black 76 requires positive underlying market
+prices.  The goal of this project is to identify alternative models which can
+accept negative underlying pricing, and assess the suitability of the
+alternatives. People interested in quantitative finance, commodity training and
+marketing, and bridging the gap between quantitative experts and non-experts
+would be excellent team members for this project."
 authors: []
 tags: []
 categories: []

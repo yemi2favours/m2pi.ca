@@ -2,7 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Fotech Solutions"
-summary: ""
+summary: "Consider a distributed acoustic sensing (DAS) system monitoring a
+fibre optic cable deployed along an active roadway. The goal of this project is
+to use data collected from the DAS system to develop a detection and tracking
+method capable of identifying individual vehicles and reporting their position
+and velocity as they move along the road/fibre.  Once the position and velocity
+are determined, various metrics for traffic flow could be determined, allowing
+for prediction and optimization of traffic congestion."
 authors: [fotech]
 tags: []
 categories: []

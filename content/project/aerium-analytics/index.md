@@ -2,7 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Aerium Analytics"
-summary: ""
+summary: "Standard procedure for building training sets for some machine
+learning models involves an individual going through hundreds of images and
+creating 2D binary matrices which reflects where the region of interest is in
+each image. Depending on the type of images, can we use RGB information or some
+other method to automate this process?  The goal of this project is to develop a
+method which creates a mask of an image depicting where monochromatic objects
+occur in an image automatically and with limited user input."
 authors: [""]
 tags: []
 categories: []
