@@ -2,8 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mcmillan Mcgee"
-summary: ""
-authors: []
+summary: "The goal of this project is to develop a reasonably accurate and
+affordable design tool to model the performance of McMillan-McGee's patented
+induction heaters, which are used for thermal conductive remediation of
+contaminated soil.  A good design tool would be useful to assess the feasibility
+and cost of using different heater lengths, diameters, and materials. 
+Working knowledge of Maxwell's equations, vector analysis, boundary value
+problems, Green's functions, complex variables, contour integration, residues,
+integral transformations and differential equations would be essential
+background for this project."
+authors: ["reid","bahri"]
 tags: []
 categories: []
 date: 2020-07-23T16:58:18-07:00

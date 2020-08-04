@@ -2,8 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Environmental Instruments Canada"
-summary: ""
-authors: []
+summary: "Environmental Instruments Canada (EIC) produces a Radon Sniffer which
+is used to find radon entry points.  One method of determining the ratio of
+Radon 222 to Radon 220 (thoron) in the air is by implementing sampling and
+counting sequences and observing the change in the alpha count over time.  The
+goal of this project is to develop an optimized sampling and counting sequence
+that results in the best statistical accuracy. Understanding radioactive decay
+and the coupled differential equations describing a decay series would be
+useful.  A team with statistical expertise would be essential.  Some familiarity
+with spreadsheets such as Excel would be helpful."
+authors: ["kaletsch","timkoe"]
 tags: []
 categories: []
 date: 2020-07-23T16:59:13-07:00

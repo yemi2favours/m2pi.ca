@@ -2,8 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Divi Project"
-summary: ""
-authors: []
+summary: "The main limitation of blockchains is storage requirements, which
+would be alleviated if one could reversibly compress the data in a blockchain or
+in its underlying transaction graph. Determine to what extent a transaction
+graph can be compressed (for later decompression) or what obstructions exist to
+its compression. What compression ratio can you achieve for an ordered sequence
+of cryptographic hashes? Pure Mathematics skills and experience with
+mathematical proof-writing are essential skills for this project.  Knowledge of
+undergraduate-level cryptography or Python programming skills would be assets,
+but are not required."
+authors: ["pattiaroy","akcora"]
 tags: []
 categories: []
 date: 2020-07-23T17:00:22-07:00

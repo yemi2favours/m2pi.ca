@@ -2,8 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "BC Financial Services Authority"
-summary: ""
-authors: []
+summary: "The goal of this project is to develop a housing price
+estimate/forecast using publicly available data to inform evidence-based
+decision making for the benefit of government regulators, industry
+practitioners, and concerned citizens.  
+
+Students will be expected to use Python 3.X for data acquisition, cleaning,
+organization, and manipulation.  Working experience with libraries such as
+Pandas may be useful.  Previous experience with other programming languages such
+as Matlab or R is useful but not required."
+authors: ["dong", "moosvi"]
 tags: []
 categories: []
 date: 2020-07-23T16:59:33-07:00

@@ -1,0 +1,46 @@
+---
+# Display name
+title: Heather Hardeman-Vooys
+
+# Username (this should match the folder name)
+authors:
+- hardeman
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Doctoral Student
+
+Organizations/Affiliations:
+organizations:
+- name: University of Calgary
+  url: "https://ucalgary.ca"
+
+# Short bio (displayed in user profile at end of posts)
+bio:
+
+interests:
+- Machine Learning
+- Analysis and Partial Differential Equations
+- Mathematics of wave propagation and seismic imaging
+
+education:
+  courses:
+  - course: MA - Mathematics
+    institution: Wake Forest University
+  - course: BS - Mathematics
+    institution: Universityof Montevallo
+
+social:
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+#email: "bauerk@ucalgary.ca"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- committee: mentors
+  role: Mentor
+
+---
