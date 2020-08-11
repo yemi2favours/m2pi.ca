@@ -9,8 +9,8 @@ each image. Depending on the type of images, can we use RGB information or some
 other method to automate this process?  The goal of this project is to develop a
 method which creates a mask of an image depicting where monochromatic objects
 occur in an image automatically and with limited user input."
-authors: [""]
-tags: []
+authors: ["hardeman"]
+tags: ["machine learning"]
 categories: []
 date: 2020-07-23T16:57:49-07:00
 

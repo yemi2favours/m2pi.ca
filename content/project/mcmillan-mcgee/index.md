@@ -11,7 +11,7 @@ Working knowledge of Maxwell's equations, vector analysis, boundary value
 problems, Green's functions, complex variables, contour integration, residues,
 integral transformations and differential equations would be essential
 background for this project."
-authors: []
+authors: ["reid","bahri"]
 tags: []
 categories: []
 date: 2020-07-23T16:58:18-07:00

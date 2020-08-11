@@ -11,7 +11,7 @@ of cryptographic hashes? Pure Mathematics skills and experience with
 mathematical proof-writing are essential skills for this project.  Knowledge of
 undergraduate-level cryptography or Python programming skills would be assets,
 but are not required."
-authors: []
+authors: ["pattiaroy","akcora"]
 tags: []
 categories: []
 date: 2020-07-23T17:00:22-07:00
