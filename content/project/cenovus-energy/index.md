@@ -50,8 +50,6 @@ slides: ""
 
 # Modelling Canadian Heavy Crude Congestion pricing using Capacitated Transport networks
 
-## apacitated Transport networks
-
 #### Problem Proposal:
 
 Alberta produces \~4MM bbls/d of crude oil of which \~3 MMbbls/d is
