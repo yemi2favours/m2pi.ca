@@ -3,7 +3,7 @@
 title: Sarah Nataj
 
 #sarahnataj
-authors:sarahnataj
+authors: sarahnataj
 
 superuser: false
 
@@ -18,19 +18,22 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Research: Numerical Analysis,Optimization, Machine Learning methods, Spectral method for PDEs
+- Numerical Analysis
+- Optimization
+- Machine Learning methods
+- Spectral method for PDEs
 - Teaching
 - Data Science
 
 # Your educational history, add as many as you want
-education: Mathematics
+education:
   courses:
   - course: PhD in Mathematics
     institution: University of Manitoba
     url: "http://umanitoba.ca/"
   - course: Ms in Applied Mathematics
-   institution: Tarbiat Modares University
-   url: "https://www.modares.ac.ir/en"
+    institution: Tarbiat Modares University
+    url: "https://www.modares.ac.ir/en"
   
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -45,7 +48,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project member: Fotech Solutions
+  role: Project member, Fotech Solutions
 ---
 I am working on Project: Traffic monitoring with distributed acoustic sensing for Fotech Solutions company
 
