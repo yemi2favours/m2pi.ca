@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 Organizations/Affiliations:
 organizations:
 - name: University of Alberta
-  url: https://sites.ualberta.ca/~ccontrer/
+  url: https://www.ualberta.ca/index.html
 
 # A list of your interests, add as many as you want
 interests:
@@ -26,8 +26,10 @@ interests:
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: PhD in Applied Mathematics
+  - course: PhD - Applied Mathematics
     institution: Univerisity of Alberta
+  - course: MSc - Mathematics
+    institution: Universidad Simón Bolívar
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
@@ -40,10 +42,8 @@ social:
 
 user_groups:
 - committee: members
-  role: Aerium Project Member
+  role: Aerium Analytics Project Member
 ---
+Carlos is a Postdoctoral Fellow at the University of Alberta working on the physiological effect of COVID-19 infections to predict mortality risk. He is interested in Scientific Machine Learning and general purpose Data Science. He has a background in Mathematical Biology and Numerical Methods.
 
-Researcher and developer with experience in mathematical modelling and teaching in higher education. 
-Proficient with Python, Julia, R, and Unix. 
-Passionate about Machine Learning and Cloud Computing. 
-Ph.D. in Applied Mathematics (Mathematical Biology) from the University of Alberta.
+[Webpage](https://sites.ualberta.ca/~ccontrer/)
