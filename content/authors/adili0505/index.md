@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: A RECENT GRADUATE
+role: A Recent Graduate
 
 # Organization membership
 Organizations/Affiliations:
