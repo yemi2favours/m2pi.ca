@@ -27,8 +27,6 @@ education:
   courses:
   - course: M.Sc. in Statistics
     institution: University of Calgary
-education: 
-  courses:
   - course: B.Sc. in Statistics
     institution: Zhejiang University
 
