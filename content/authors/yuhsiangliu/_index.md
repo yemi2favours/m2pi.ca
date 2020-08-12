@@ -13,9 +13,9 @@ role: Recently graduated PhD
 
 # Organization membership
 Organizations/Affiliations:
-  organizations:
-  - name: University of British Columbia, Mathematics
-    url: https://www.math.ubc.ca/
+organizations:
+- name: University of British Columbia, Mathematics
+  url: https://www.math.ubc.ca/
 
 # A list of your interests, add as many as you want
 interests:
