@@ -19,14 +19,14 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- <Piano>
+- <power analysis>
+  
+  
 
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: <Statistics>
-    institution: <University of Alberta>
   - course: <Statistics and Economics>
     institution: <University of Saskatchewan>
 
@@ -36,4 +36,4 @@ user_groups:
 - committee: members
   role: <BSFSA Project member>
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+<Yiwei Huang is a master student in Univeristy of Alberta.She is working on her final project which is related to power analysis. Also,she has great interest in machine learning and data science.>
