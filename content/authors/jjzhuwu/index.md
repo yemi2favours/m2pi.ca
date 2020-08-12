@@ -19,7 +19,7 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Coding
+- Machine Learning
 
 # Your educational history, add as many as you want
 education:
