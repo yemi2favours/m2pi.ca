@@ -43,6 +43,12 @@ social:
 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. ATCO Project member>
+  role: ATCO Project member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+# About Me
+* I am Wali Mohammad Abdullah, a Ph.D student in the Mathematics & Computer Science department of University of Lethbridge, Canada.
+
+* My research interest is numerical optimization and its applications.
+
+* I have completed my Masters in Information and Communication Technology from IICT, Bangladesh University of Engineering and Technology (BUET) in 2014 and Bachelor in Computer Science and Engineering (CSE) from Military Institute of Science and Technology (MIST) in 2010. 
+* I was an instructor of Department of Computer Science & Engineering at MIST (from June 2011 to August 2017).
