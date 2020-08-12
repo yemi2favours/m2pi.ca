@@ -15,7 +15,7 @@ role: Postdoc Associate
 Organizations/Affiliations:
 organizations:
 - name: University of Calgary
-  url:http://www.ucalgary.ca
+  url: http://www.ucalgary.ca
 
 # A list of your interests, add as many as you want
 interests:
