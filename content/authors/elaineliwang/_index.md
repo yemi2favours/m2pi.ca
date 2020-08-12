@@ -19,8 +19,8 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- <ITEM 1 GOES HERE>
-- <ITEM 2 GOES HERE>
+-  Partial Differential Equations
+-  
 
 # Your educational history, add as many as you want
 education:
@@ -32,11 +32,10 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: <LINK TO YOUR TWITTER>
+  link: 
 - icon: github
   icon_pack: fab
-  link: <LINK TO YOUR GITHUB e.g. https://github.com/gcushen>
-
+  link: 
 user_groups:
 - committee: members
   role: <PROJECT XXX MEMBER e.g. ATCO Project member>
