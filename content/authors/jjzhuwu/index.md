@@ -39,4 +39,3 @@ user_groups:
 - committee: members
   role: AERIUM Project Member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
