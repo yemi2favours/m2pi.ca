@@ -2,38 +2,35 @@
 # Display name
 title: Yiwei Huang
 
-# Username (yiwei14)
+# Username (this should match the folder name)
 authors:
 - yiwei14
 
+# Is this the primary user of the site?
 superuser: false
 
-# Role/position e.g. Graduate student
-role: GRADUATE STUDENT
+# Role/position
+role: Graduate Student
 
-# Organization membership
 Organizations/Affiliations:
 organizations:
-- name: The University of Alberta
-  url: https://www.ualberta.ca/index.html
+- name: University of Alberta
+  
 
-# A list of your interests, add as many as you want
+# Short bio (displayed in user profile at end of posts)
+bio: 
+
 interests:
 - power analysis
-  
-  
 
 
-# Your educational history, add as many as you want
 education:
   courses:
-  - course: Statistics and Economics
+  - course:Statistics and Economics
     institution: University of Saskatchewan
-
-
-
+  
 user_groups:
-- committee: members
-  role: BSFSA Project member
+- project: BCFSA Project member
+  role: BCFSA Project memberr
 ---
 Yiwei Huang is a master student in Univeristy of Alberta.She is working on her final project which is related to power analysis. Also,she has great interest in machine learning and data science.
