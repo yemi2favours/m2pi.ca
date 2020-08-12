@@ -20,13 +20,13 @@ organizations:
 # A list of your interests, add as many as you want
 interests:
 -  Partial Differential Equations
--  
+-  Mathematical Physics
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: B.Sc in Mathematics
-    institution: University of British Columbia
+  - course: B.A in Applied Mathematics
+    institution: UC Berkeley
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
@@ -35,7 +35,7 @@ social:
   link: 
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/elaineliwang
 user_groups:
 - committee: members
   role: Project Member
