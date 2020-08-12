@@ -42,4 +42,4 @@ user_groups:
 - committee: members
   role: <ATCO Project member>
 ---
-<With problem solving skills, coupled with an affinity to learn. I aspire to gain admission into a mathematical-science related profession where my expertise will be an asset. I aspire to continuously enrich my knowledge and skills. >
+<With some problem solving skills, coupled with an affinity to learn. I aspire to gain admission into a mathematical-science related profession where my expertise will be an asset. I aspire to continuously enrich my knowledge and skills. >
