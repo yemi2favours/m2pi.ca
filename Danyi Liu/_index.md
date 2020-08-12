@@ -21,6 +21,7 @@ organizations:
 interests:
 - Longitudinal Data Analysis
 - Experimental Design
+- Statistical Consulting
 
 # Your educational history, add as many as you want
 education:
@@ -41,4 +42,4 @@ user_groups:
 - committee: members
   role: IOTO Goverlytic Project Member
 ---
-Currently working on the PIMS project.
+
