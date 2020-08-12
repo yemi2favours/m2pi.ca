@@ -19,16 +19,18 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Mathematical Research
+- Research
 - Analytics
-- Program/Project Development
+- Problem Solving
+- Linear Algebra
+- Pattern Reconition
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: Ph.D.
+  - course: Ph.D. Mathematics
     institution: Washington State University
-  - course: B.S.
+  - course: B.S. Mathematics, Applied Physics
     institution: California State University Channel Isalnds
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -42,10 +44,10 @@ social:
 
 user_groups:
 - committee: members
-  role: IOTO project member
+  role: IOTO Goverlytics project member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
-Jillian is a Ph.D. graduate from Washington State University, specializing in Linear Algebra and Combinatorial Matix Theory. She joined the PIMS Math^Industry program to gain real-world experience and training to transition into industry and the world of Data Analytics. 
-In addition to her technical background, Jillian is a confident public speaker. She is also an avid learner, spending her spare time learning new skills in coding and studying machine learning. 
-While open in various oppruntuinites, she is especially interested in projects involving economics, government policy, and data ethics.
-Currently, she is enjoying hiking in Arizona aand looks forward to cooking when the weather is cooler.
+
+Jillian is a Ph.D. graduate from Washington State University, specializing in Linear Algebra and Combinatorial Matix Theory. 
+In addition to her technical background, Jillian is a confident public speaker and an avid learner, spending her spare time learning Python and topics like machine learning. 
+While she has broad interest in various topics, Jillian is especially interested in data projects involving economics/labour market and government policy.
+
