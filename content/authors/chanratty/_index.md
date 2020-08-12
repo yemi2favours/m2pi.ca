@@ -24,13 +24,12 @@ interests:
 - Mathematics Education
 - Mathematics Outreach
 
-
 # Your educational history, add as many as you want
 education:
   courses:
   - course: Master of Science, Mathematics
     institution: University of Alberta
-   - course: Bachelor of Science, Honors Mathematics
+  - course: Bachelor of Science, Honors Mathematics
     institution: University of Alberta
 
 # Social/Academic Networking, delete any items you don't want to use
