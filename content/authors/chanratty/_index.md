@@ -30,7 +30,6 @@ education:
   courses:
   - course: Master of Science, Mathematics
     institution: University of Alberta
-  
    - course: Bachelor of Science, Honors Mathematics
    institution: University of Alberta
 
@@ -39,7 +38,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/chanratty
-  
 - icon: linkdin
   icon_pack: fab
   link: https://www.linkedin.com/in/chantelle-hanratty-74423b1a9/
