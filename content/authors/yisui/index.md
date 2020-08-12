@@ -45,5 +45,5 @@ user_groups:
 - committee: members
   role: Aerium Analytics Project Member
 ---
-Yi received her PhD from Simon Fraser University in Spring 2020. She has a background in Applied and Computational Mathematics, 
-and her interest lies in the different areas such as Compressed Sensing, Optimization and Data Science. 
+Yi received her PhD from Simon Fraser University in Spring 2020. Her background is in Applied and Computational Mathematics. She has broad 
+interests in different areas such as compressed sensing, optimization and data science. 
