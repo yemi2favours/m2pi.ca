@@ -43,7 +43,7 @@ email: "yiwei14@ualberta.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- comittee: members
+- committee: members
   role: BCFSA Project memberr
 ---
 Yiwei Huang is a master student in Univeristy of Alberta.She is working on her final project which is related to power analysis. Also,she has great interest in machine learning and data science.
