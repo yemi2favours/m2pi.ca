@@ -26,7 +26,7 @@ interests:
 education: Master of Science in Statistics
   courses:
   - course: Computational Statistic, Bayesian Inferences, Experimental Design
-    institution: <University of Saskatchewan>
+    institution: University of Saskatchewan
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
