@@ -31,7 +31,7 @@ education:
   - course: Master of Science, Mathematics
     institution: University of Alberta
    - course: Bachelor of Science, Honors Mathematics
-   institution: University of Alberta
+    institution: University of Alberta
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
