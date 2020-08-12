@@ -15,7 +15,7 @@ role: GRADUATE STUDENT
 Organizations/Affiliations:
 organizations:
 - name: University of Alberta
-  url: <https://www.ualberta.ca/index.html>
+  url: https://www.ualberta.ca/index.html
 
 # A list of your interests, add as many as you want
 interests:
@@ -34,7 +34,7 @@ education:
 social:
 - icon: github
   icon_pack: fab
-  link: <https://github.com/rjt128>
+  link: https://github.com/rjt128
 
 user_groups:
 - committee: members
