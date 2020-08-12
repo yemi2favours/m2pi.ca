@@ -44,4 +44,4 @@ user_groups:
 ---
 <p>Biostatistics graduate student with more than 2 years experience in statistical analysis and modeling.</p>
 <p>Solid background in mathematics, statistics and programming skills. Proficient in SAS, Python, R, Matlab, Microsoft Office and Latex.</p>
-<p>Currently working as a trainee in Teaching Consultant Center in university and academic tutor until Jan, 2020.</p>
+<p>Currently working as a trainee in Teaching Consultant Center in university and academic tutor until Jan, 2021.</p>
