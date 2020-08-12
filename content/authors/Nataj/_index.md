@@ -6,8 +6,9 @@ title: Sarah Nataj
 authors:sarahnataj
 
 superuser: false
+
 # Role/position e.g. Graduate student
----role: Research Assistance, Sessional instructor
+role: Research Assistance, Sessional instructor
 
 # Organization membership
 Organizations/Affiliations:
@@ -44,9 +45,8 @@ social:
 
 user_groups:
 - committee: members
-  role: Project member: Fotech Solutions 
+  role: Project member: Fotech Solutions
+---
 I am working on Project: Traffic monitoring with distributed acoustic sensing for Fotech Solutions company
 
 We onsider a distributed acoustic sensing (DAS) system monitoring a fibre optic cable deployed along an active roadway. The goal of this project is to use data collected from the DAS system to develop a detection and tracking method capable of identifying individual vehicles and reporting their position and velocity as they move along the road/fibre.  Once the position and velocity are determined, various metrics for traffic flow could be determined, allowing for prediction and optimization of traffic congestion.
-
->
