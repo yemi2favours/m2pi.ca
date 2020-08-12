@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Aaron(Xiang) Zheng
@@ -10,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: Recent Mater student in Statistics 
+role: Recent Masters student in Statistics 
 
 # Organization membership
 Organizations/Affiliations:
