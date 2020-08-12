@@ -38,12 +38,12 @@ education:
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruths@pims.math.ca"
+email: "yiwei14@ualberta.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- project: BCFSA Project member
+- project: members
   role: BCFSA Project memberr
 ---
 Yiwei Huang is a master student in Univeristy of Alberta.She is working on her final project which is related to power analysis. Also,she has great interest in machine learning and data science.
