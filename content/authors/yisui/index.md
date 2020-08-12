@@ -1,32 +1,38 @@
 ---
 # Display name
-title: <YOUR NAME>
+title: Yi Sui
 
 # Username (this should match your github username)
 authors:
-- <GITHUB USERNAME>
+- yisui
 
 superuser: false
 
 # Role/position e.g. Graduate student
-role: <GRADUATE STUDENT>
+role: Recent PhD Graduate
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: <NAME OF YOUR UNIVERSITY OR ORGANIZATION>
-  url: <WEBSITE ADDRESS OF YOUR UNIVERSITY/ORGANIZATION>
+- name: Simon Fraser University 
+  url: https://www.sfu.ca
 
 # A list of your interests, add as many as you want
 interests:
-- <ITEM 1 GOES HERE>
-- <ITEM 2 GOES HERE>
+- Compressed Sensing
+- Image Processing 
+- Optimization 
+- Machine Learning 
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: <DEGREE TITLE>
-    institution: <GRANTING INSTITUTION>
+  - course: PhD - Applied and Computational Mathematics 
+    institution: Simon Fraser University 
+  - course: MSc - Applied Mathematics 
+    institution: The University of British Columbia 
+  - course: BA with Honors - Applied Mathematics 
+    institution: Univserity of California, Berkeley 
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
