@@ -39,4 +39,4 @@ user_groups:
 - committee: members
   role: Aerium Project member
 ---
-With some knowledge in Numerical PDE, Dispersive Equations, Harmonic Analaysis and a bit knowledge in Python, MATLAB.
+With some knowledge in Numerical PDE, Dispersive Equations, Harmonic Analysis and a bit knowledge in Python, MATLAB.
