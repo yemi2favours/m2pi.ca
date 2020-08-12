@@ -1,21 +1,21 @@
 ---
 # Display name
-title: <Li Wang>
+title: Li Wang
 
 # Username (this should match your github username)
 authors:
-- <elaineliwang>
+- elaineliwang
 
 superuser: false
 
 # Role/position e.g. Graduate student
-role: <GRADUATE STUDENT>
+role:  GRADUATE STUDENT
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: <University of British Columbia>
-  url: <http://www.math.ubc.ca/~lwang/>
+- name:  University of British Columbia
+  url:  http://www.math.ubc.ca/~lwang/
 
 # A list of your interests, add as many as you want
 interests:
