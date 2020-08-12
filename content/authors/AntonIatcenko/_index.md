@@ -1,10 +1,10 @@
 ---
 # Display name
-title: <Anton Iatcenko>
+title: Anton Iatcenko
 
 # Username (this should match your github username)
 authors:
-- <AntonIatcenkoE>
+- <AntonIatcenko>
 
 superuser: false
 
