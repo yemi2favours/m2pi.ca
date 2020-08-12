@@ -25,8 +25,8 @@ interests:
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: <DEGREE TITLE>
-    institution: <GRANTING INSTITUTION>
+  - course: B.Sc in Mathematics
+    institution: University of British Columbia
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
@@ -38,6 +38,5 @@ social:
   link: 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. ATCO Project member>
+  role: Project Member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
