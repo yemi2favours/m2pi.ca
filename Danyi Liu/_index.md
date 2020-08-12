@@ -41,4 +41,4 @@ user_groups:
 - committee: members
   role: IOTO Goverlytic Project Member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+Currently working on the PIMS project.
