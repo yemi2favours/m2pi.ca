@@ -47,4 +47,5 @@ user_groups:
 Carlos is a Postdoctoral Fellow at the University of Alberta working on the physiological effect of COVID-19 infections to predict mortality risk. He is interested in Scientific Machine Learning and general purpose Data Science. He has a background in Mathematical Biology and Numerical Methods.
 
 [Webpage](https://sites.ualberta.ca/~ccontrer/)
+
 [Netlify webpage](https://carlos-contreras.netlify.app/)
