@@ -31,9 +31,6 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: <LINK TO YOUR TWITTER>
 - icon: github
   icon_pack: fab
   link: https://github.com/Danyi-Liu?tab=repositories
