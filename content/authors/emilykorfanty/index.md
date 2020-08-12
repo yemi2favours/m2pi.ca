@@ -35,7 +35,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/emilykorfanty
-- <a href="https://studentweb.uvic.ca/~emilykorfanty/homepage.html"> Personal Website</a>
 
 user_groups:
 - committee: members
