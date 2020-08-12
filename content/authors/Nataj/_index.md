@@ -6,15 +6,14 @@ title: Sarah Nataj
 authors:sarahnataj
 
 superuser: false
-
 # Role/position e.g. Graduate student
-role: Research Assistance, Sessional instructor
+---role: Research Assistance, Sessional instructor
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
 - name: University of Manitoba
-  url: "http://umanitoba.ca/"
+  url: http://umanitoba.ca/
 
 # A list of your interests, add as many as you want
 interests:
