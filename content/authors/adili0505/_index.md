@@ -21,6 +21,7 @@ organizations:
 interests:
 - Data Analysis
 - Mathematical Modelling
+- Abstract Linear Algebra
 
 # Your educational history, add as many as you want
 education:
