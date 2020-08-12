@@ -44,5 +44,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
+- committee: instructors
+  role: How to pitch a Solution Instructor
 
 ---
