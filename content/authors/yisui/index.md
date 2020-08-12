@@ -22,6 +22,7 @@ interests:
 - Compressed Sensing
 - Image Processing 
 - Optimization 
+- Numerical Analysis
 - Machine Learning 
 
 # Your educational history, add as many as you want
@@ -36,15 +37,13 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: <LINK TO YOUR TWITTER>
 - icon: github
   icon_pack: fab
-  link: <LINK TO YOUR GITHUB e.g. https://github.com/gcushen>
+  link: https://github.com/yisui
 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. ATCO Project member>
+  role: Aerium Analytics Project Member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+Yi received her PhD from Simon Fraser University in Spring 2020. She has a background in Applied and Computational Mathematics, 
+and her interest lies in the different areas such as Compressed Sensing, Optimization and Data Science. 
