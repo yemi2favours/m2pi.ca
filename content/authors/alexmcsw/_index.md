@@ -28,7 +28,7 @@ education:
   courses:
   - course: Honours Bachelor of Science in Mathematics
     institution: University of Ottawa
-  - course: Master's of Science in Mathematics
+  - course: Master of Science in Mathematics
     institution: University of Ottawa
 
 # Social/Academic Networking, delete any items you don't want to use
