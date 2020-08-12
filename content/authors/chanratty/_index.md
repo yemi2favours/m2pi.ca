@@ -1,44 +1,51 @@
 ---
 # Display name
-title: <YOUR NAME>
+title: Chantelle Hanratty
 
 # Username (this should match your github username)
 authors:
-- <GITHUB USERNAME>
+- chanratty
 
 superuser: false
 
 # Role/position e.g. Graduate student
-role: <GRADUATE STUDENT>
+role: Recent Master of Science Graduate
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: <NAME OF YOUR UNIVERSITY OR ORGANIZATION>
-  url: <WEBSITE ADDRESS OF YOUR UNIVERSITY/ORGANIZATION>
+- name: University of Alberta
+  url: https://www.ualberta.ca/index.html
 
 # A list of your interests, add as many as you want
 interests:
-- <ITEM 1 GOES HERE>
-- <ITEM 2 GOES HERE>
+- Toric Geometry
+- Category Theory
+- Mathematics Education
+- Mathematics Outreach
+
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: <DEGREE TITLE>
-    institution: <GRANTING INSTITUTION>
+  - course: Master of Science, Mathematics
+    institution: University of Alberta
+  
+   - course: Bachelor of Science, Honors Mathematics
+   institution: University of Alberta
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: <LINK TO YOUR TWITTER>
 - icon: github
   icon_pack: fab
-  link: <LINK TO YOUR GITHUB e.g. https://github.com/gcushen>
+  link: https://github.com/chanratty
+  
+- icon: linkdin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chantelle-hanratty-74423b1a9/
 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. ATCO Project member>
+  role: <ATCO Team Member>
 ---
 <ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
