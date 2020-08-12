@@ -50,5 +50,5 @@ user_groups:
 
 * My research interest is numerical optimization and its applications.
 
-* I have completed my Masters in Information and Communication Technology from IICT, Bangladesh University of Engineering and Technology (BUET) in 2014 and Bachelor in Computer Science and Engineering (CSE) from Military Institute of Science and Technology (MIST) in 2010. 
+* I completed my Masters in Information and Communication Technology from IICT, Bangladesh University of Engineering and Technology (BUET) in 2014 and Bachelor in Computer Science and Engineering (CSE) from Military Institute of Science and Technology (MIST) in 2010. 
 * I was an instructor of Department of Computer Science & Engineering at MIST (from June 2011 to August 2017).
