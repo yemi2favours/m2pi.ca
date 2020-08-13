@@ -33,12 +33,15 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carlosshigoto
 - icon: github
   icon_pack: fab
   link: https://github.com/ccontrer
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/carloscontrerasc/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/carlosshigoto
 
 user_groups:
 - committee: members
