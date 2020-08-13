@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: Master Student
+role: Graduate Student
 
 # Organization membership
 Organizations/Affiliations:
@@ -20,13 +20,14 @@ organizations:
 # A list of your interests, add as many as you want
 interests:
 - Machine Learning
+- Harmonic Analysis
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: Machine Learning
+  - course: MSc in Mathematics
     institution: University of British Columbia
-  - course: Data Structures and Algorithms
+  - course: BSc in Honors Mathematics
     institution: University of British Columbia
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -37,5 +38,5 @@ social:
 
 user_groups:
 - committee: members
-  role: AERIUM Project Member
+  role: Aerium Analytics Project Member
 ---
