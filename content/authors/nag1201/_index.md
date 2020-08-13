@@ -1,34 +1,34 @@
 ---
 # Display name
-title: <Nishant Agrawal>
+title: Nishant Agrawal
 
 # Username (this should match your github username)
 authors:
-- <nag1201>
+- nag1201
 
 superuser: false
 
 # Role/position e.g. Graduate student
-role: <Ph.D. STUDENT>
+role: Ph.D. STUDENT
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: <University of Alberta>
-  url: <https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html>
+- name: University of Alberta
+  url: https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html
 
 # A list of your interests, add as many as you want
 interests:
-- <Math Finance>
+- Math Finance
 #- <ITEM 2 GOES HERE>
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: <PhD in Mathematical Finance>
-    institution: <University of Alberta>
-  - course: <MA in Mathematics>
-    institution: <University of Kansas>
+  - course: PhD in Mathematical Finance
+    institution: University of Alberta
+  - course: MA in Mathematics
+    institution: University of Kansas
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
@@ -37,10 +37,10 @@ social:
  # link: <LINK TO YOUR TWITTER>
 - icon: github
   icon_pack: fab
-  link: <https://github.com/nag1201>
+  link: https://github.com/nag1201
 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. Ovintiv Project member>
+  role: Ovintiv Project member
 ---
 #<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
