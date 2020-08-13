@@ -34,7 +34,7 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter  @AnaRoldan_8
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnaRoldan_8
 - icon: github
