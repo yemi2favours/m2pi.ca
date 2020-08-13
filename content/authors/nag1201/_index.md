@@ -32,9 +32,9 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-#- icon: twitter
+- icon: Linkedin
   icon_pack: fab
- # link: <LINK TO YOUR TWITTER>
+  link: https://www.linkedin.com/in/nishant-agrawal-26b99822/
 - icon: github
   icon_pack: fab
   link: https://github.com/nag1201
