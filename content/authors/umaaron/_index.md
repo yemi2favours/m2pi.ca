@@ -35,7 +35,7 @@ social:
   link: https://github.com/umaaron
 
 user_groups:
-- committee: member
+- committee: members
   role: Ioto-international project
 ---
 
