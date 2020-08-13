@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: GRADUATE STUDENT
+role: GRADUATE STUDENT, Teacher Assistant
 
 # Organization membership
 Organizations/Affiliations:
@@ -37,6 +37,6 @@ social:
 
 user_groups:
 - committee: members
-  role: <PROJECT XXX MEMBER e.g. ATCO Project member>
+  role: PROJECT member
 ---
 <ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
