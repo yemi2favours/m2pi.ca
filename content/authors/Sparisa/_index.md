@@ -33,10 +33,9 @@ social:
 
 - icon: github
   icon_pack: fab
-  link: LINK TO YOUR GITHUB e.g. https://github.com/Sparisa
+  link: https://github.com/Sparisa
 
 user_groups:
 - committee: members
   role: PROJECT member
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
