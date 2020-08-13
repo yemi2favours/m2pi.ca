@@ -20,7 +20,8 @@ organizations:
 # A list of your interests, add as many as you want
 interests:
 -  Partial Differential Equations
--  Mathematical Physics
+-  Optimization
+-  Machine Learning
 
 # Your educational history, add as many as you want
 education:
@@ -39,4 +40,4 @@ social:
 user_groups:
 - committee: members
   role: Aerium-Analytics Project Member
----
+--- Li Wang is a math PhD student at University of British Columbia.  Her research interest are partial differential equations and mathematical physics. 
