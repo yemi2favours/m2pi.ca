@@ -42,7 +42,7 @@ social:
   link: https://github.com/aroldan8
 
 user_groups:
-- committee: ovintiv group
+- committee: members
   role: Ovintiv Project member
 ---
 PhD Student at U of Calgary; Research Economist at Banco de Mexico
