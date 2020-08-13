@@ -23,15 +23,15 @@ interests:
 
 # Your educational history, add as many as you want
 education: 
-  Master of Science in Statistics
   courses:
-  - course: Computational Statistic, Bayesian Inferences, Experimental Design. Institution: University of Saskatchewan
+  - course: Master of Science in Statistics
+    institution: University of Saskatchewan
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
 - icon: github
   icon_pack: fab
-  link: www.github.com/Janeou-Zhang
+  link: https://github.com/Janeou-Zhang
 
 user_groups:
 - committee: Team 7 of workshop of PIMS
