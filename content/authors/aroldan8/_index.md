@@ -34,16 +34,15 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: @AnaRoldan_8
+- icon: twitter  @AnaRoldan_8
   icon_pack: fab
-  link: <LINK TO YOUR TWITTER>
-- icon: aroldan8
+  link: https://twitter.com/AnaRoldan_8
+- icon: github
   icon_pack: fab
-  link: <LINK TO YOUR GITHUB e.g. https://github.com/gcushen>
+  link: https://github.com/aroldan8
 
 user_groups:
 - committee: ovintiv group
   role: Ovintiv Project member
 ---
-PhD Student at U of Calgary; Research Economist at Banco de México
-Calgary, Alberta, Canada
+PhD Student at U of Calgary; Research Economist at Banco de Mexico
