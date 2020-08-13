@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <Neha Sharma>
+title: Neha Sharma
 
 # Username (this should match your github username)
 authors:
@@ -22,7 +22,7 @@ interests:
 - Mathematical Finance
 - Stochastic Analysis
 - Machine Leaning
--Data Science
+- Data Science
 
 # Your educational history, add as many as you want
 education:
