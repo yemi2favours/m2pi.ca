@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: Statistic Graduate Student 
+role: Recent Masters student in Statistics 
 
 # Organization membership
 Organizations/Affiliations:
@@ -19,23 +19,17 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Python
-- Marchine Learning
-- Rope Skipping
-- Fishing
-- Stock
-
+- Optimization 
+- Machine Learning 
+- business analysis 
+ 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: Linkedin 
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aaron-xiang-zheng-2b575076/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/umaaron
 
 user_groups:
 - committee: members
-  role: Ioto-international project
+  role: Project Ioto-international Member.
 ---
-
