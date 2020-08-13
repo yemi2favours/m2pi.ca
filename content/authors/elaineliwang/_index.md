@@ -38,5 +38,5 @@ social:
   link: https://github.com/elaineliwang
 user_groups:
 - committee: members
-  role: Project Member
+  role: Aerium-Analytics Project Member
 ---
