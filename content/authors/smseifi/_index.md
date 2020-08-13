@@ -43,5 +43,5 @@ user_groups:
   role: Ovintiv Project member
 ---
 Mohsen is a recent graduate student from the Simon Fraser University. His background is in Applied and Computational Mathematics. He is mostly interested in the 
-Mathematical and Computational problems arising in the Financial Industry. Currently, he is a Master of Quantitative Finance student at 
+Mathematical problems arising in the Financial Industry. Currently, he is a Master of Quantitative Finance student at 
 University of Waterloo.
