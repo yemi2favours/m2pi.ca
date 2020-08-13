@@ -34,7 +34,7 @@ social:
   link: https://github.com/Janeou-Zhang
 
 user_groups:
-- committee: Team 7 of workshop of PIMS
+- committee: members
   role: Fotech Solutions Project member
 ---
 I am a recent graduate students with MSc degree from University of Saskatchewan. My research field is Bayesian Analysis on Item Response Theory (IRT) Model. 
