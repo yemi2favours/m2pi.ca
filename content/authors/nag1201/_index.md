@@ -43,4 +43,4 @@ user_groups:
 - committee: members
   role: Ovintiv Project member
 ---
-#<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+
