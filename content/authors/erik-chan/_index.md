@@ -28,6 +28,7 @@ education:
   - course: B.Sc in Applied Mathematics
     institution: University of Calgary
   - course: M.Sc in Applied Mathematics
+    institution: University of Calgary
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
