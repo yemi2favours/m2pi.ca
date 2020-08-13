@@ -20,7 +20,7 @@ organizations:
 # A list of your interests, add as many as you want
 interests:
 - Quantitative Finance
-- Numerical Simulation and Computational Mathematics
+- Computational Mathematics
 - Machine Learning
 
 # Your educational history, add as many as you want
