@@ -37,5 +37,5 @@ social:
 
 user_groups:
 - committee: members
-  role: PROJECT member
+  role: Cenovus Energy Project Member
 ---
