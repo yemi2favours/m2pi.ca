@@ -11,7 +11,7 @@ accept negative underlying pricing, and assess the suitability of the
 alternatives. People interested in quantitative finance, commodity training and
 marketing, and bridging the gap between quantitative experts and non-experts
 would be excellent team members for this project."
-authors: [dalton, swischuk]
+authors: [dalton, swischuk, aroldan8, elham-soufiani, smseifi, nag1201, yyao23]
 tags: []
 categories: []
 date: 2020-07-23T16:58:02-07:00
