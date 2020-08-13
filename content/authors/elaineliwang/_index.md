@@ -31,9 +31,9 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: 
+# - icon: twitter
+#  icon_pack: fab
+#  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/elaineliwang
