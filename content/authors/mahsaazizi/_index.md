@@ -23,9 +23,9 @@ interests:
 - Data Analysis
 
 # Your educational history, add as many as you want
-education: MSc - Computer Science
+education: 
   courses:
-  - course: <DEGREE TITLE>
+  - course: MSc - Computer Science
     institution: University of Saskatchewan
 
 # Social/Academic Networking, delete any items you don't want to use
@@ -33,9 +33,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mahsaazizi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mahsa-azizi/
 
 user_groups:
 - committee: members
   role: Cenovus Project Memeber
 ---
-<ADD A DESCRIPTION HERE, USE MARKDOWN SYNTAX>
+Mahsa is a recent M.Sc. graduate in Computer Science at the University of Saskatchewan. 
