@@ -52,7 +52,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Aerium Analytics Project Member
+  role: McMillan-McGee Project Member
 ---
 I am a PhD candidate in the programming languages lab at the University of Calgary. My research interests mainly revolve around tangent categories and their applications to differentiable programming and Lie theory.
 
