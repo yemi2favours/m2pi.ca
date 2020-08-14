@@ -31,12 +31,15 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/danieldibenedetto/
 - icon: github
   icon_pack: fab
   link: https://github.com/danieldibenedetto
 
 user_groups:
 - committee: members
-  role: BCFSA Project member
+  role: BCFSA Project Member
 ---
 Daniel is a Mathematics PhD student at The University of British Columbia, where his research focuses on combinatorics and harmonic analysis. He has recently developed an interest in a number of applied areas including quantitative finance, machine learning and data science.
