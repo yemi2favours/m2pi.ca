@@ -26,9 +26,9 @@ interests:
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: MS
+  - course: MS in Computer Science
     institution: University of Calgary
-  - course: BS
+  - course: BS in Mathematics
     institution: University of Electronic Science and Technology of China
 
 # Social/Academic Networking, delete any items you don't want to use
