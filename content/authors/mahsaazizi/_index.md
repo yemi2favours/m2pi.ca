@@ -41,4 +41,4 @@ user_groups:
 - committee: members
   role: Cenovus Project Memeber
 ---
-Mahsa is a recent M.Sc. graduate in Computer Science at the University of Saskatchewan. 
+Mahsa is a recent M.Sc. graduate in Computer Science from the University of Saskatchewan. 
