@@ -13,8 +13,8 @@ role: Cenovus Project Memeber
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: <NAME OF YOUR UNIVERSITY OR ORGANIZATION>
-  url: <WEBSITE ADDRESS OF YOUR UNIVERSITY/ORGANIZATION>
+- name: University of Saskatchewan
+  url: https://www.cs.usask.ca/
 
 # A list of your interests, add as many as you want
 interests:
