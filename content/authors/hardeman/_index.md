@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Machine Learning Developer
 
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary
-  url: "https://ucalgary.ca"
+- name: Aerium Analytics
+  url: "https://www.aeriumanalytics.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -27,6 +27,8 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Mathematics
+    institution: University of Calgary
   - course: MA - Mathematics
     institution: Wake Forest University
   - course: BS - Mathematics
