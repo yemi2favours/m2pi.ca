@@ -21,7 +21,7 @@ organizations:
 interests:
 - Biostatistics
 - Data analysis
-- Computer programming
+- Machine Learning
 
 # Your educational history, add as many as you want
 education:
@@ -41,5 +41,3 @@ user_groups:
 
 ---
 <p>Biostatistics graduate student with background in mathematics, statistics and programming skills. </p>
-<p>Proficient in SAS, Python, R, Matlab, Microsoft Office and Latex.</p>
-<p>Currently working as a trainee in Teaching Consultant Center and academic tutor.</p>

@@ -14,7 +14,8 @@ to improve their productivity. In this problem, you will help a model business
 to design and optimize their employees’ working-at-office schedule using a
 combination of criteria which you deem to be important, and real-life data such
 as traffic, limitation on work schedule hours, commuting time and others."
-authors: ["putkaradze", "pan", "swang"]
+authors: [putkaradze, pan, swang, adili0505, chanratty, waliabdullah,
+yanhongxu, yuhsiangliu, AmeliaSpivak]
 tags: []
 categories: []
 date: 2020-07-23T17:00:22-07:00

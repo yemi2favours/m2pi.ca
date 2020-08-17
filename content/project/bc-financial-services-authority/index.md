@@ -11,7 +11,7 @@ Students will be expected to use Python 3.X for data acquisition, cleaning,
 organization, and manipulation.  Working experience with libraries such as
 Pandas may be useful.  Previous experience with other programming languages such
 as Matlab or R is useful but not required."
-authors: ["dong", "moosvi"]
+authors: [dong, moosvi, danieldibenedetto, yiwei, leimin23]
 tags: []
 categories: []
 date: 2020-07-23T16:59:33-07:00
