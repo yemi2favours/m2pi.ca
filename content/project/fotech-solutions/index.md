@@ -9,7 +9,7 @@ method capable of identifying individual vehicles and reporting their position
 and velocity as they move along the road/fibre.  Once the position and velocity
 are determined, various metrics for traffic flow could be determined, allowing
 for prediction and optimization of traffic congestion."
-authors: [fotech, thulasiraman]
+authors: [fotech, thulasiraman, pboya415, brian-t-chan, emilykorfanty, park367, jianou-zhang, nataj]
 tags: []
 categories: []
 date: 2020-07-23T16:58:50-07:00

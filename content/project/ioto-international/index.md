@@ -8,7 +8,7 @@ performance?  The goal of this project is to analyze data which are related to
 the progression of a bill into law in the US. A background in statistics or
 graph theory would be helpful.  Some background in computer programming or data
 science may be helpful, but not necessary."
-authors: []
+authors: [umaaron, dana996, danyi-liu, d-ta, jlglassett]
 tags: []
 categories: []
 date: 2020-07-23T16:58:32-07:00

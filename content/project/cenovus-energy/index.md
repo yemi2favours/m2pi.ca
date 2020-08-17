@@ -11,7 +11,7 @@ Can we predict the occurrence of congestion by perturbing input factors in the
 system? How do shape and connections in the transport network contribute to the
 propensity for frequency of the congestion and magnitude of congestion
 surcharge?"
-authors: ["wei","safaian"]
+authors: [wei, safaian, erik-chan, sparisa ]
 tags: []
 categories: []
 date: 2020-07-23T17:00:55-07:00

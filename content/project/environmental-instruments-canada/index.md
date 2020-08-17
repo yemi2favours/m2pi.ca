@@ -11,7 +11,7 @@ that results in the best statistical accuracy. Understanding radioactive decay
 and the coupled differential equations describing a decay series would be
 useful.  A team with statistical expertise would be essential.  Some familiarity
 with spreadsheets such as Excel would be helpful."
-authors: ["kaletsch","timkoe"]
+authors: [kaletsch, iiiejt, stephenstyles]
 tags: []
 categories: []
 date: 2020-07-23T16:59:13-07:00
