@@ -8,7 +8,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-role: Cenovus Project Memeber
+role: M.Sc. Graduate
 
 # Organization membership
 Organizations/Affiliations:
