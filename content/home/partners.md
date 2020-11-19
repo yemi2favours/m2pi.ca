@@ -13,14 +13,14 @@ columns = "2"
 +++
 <div class="row">
 <div class="col-lg-3 sponsor">
-    <a href="https://www.pims.math.ca" target="_blank"><img src="img/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://mitacs.ca" target="_blank"><img src="img/mitacs.png" alt="Mitacs" /></a>
+    <a href="https://mitacs.ca" target="_blank"><img src="/media/mitacs.png" alt="Mitacs" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://www.quantsight.com" target="_blank"><img src="img/quantsight.png" alt="QuantSight" /></a>
+    <a href="https://www.quantsight.com" target="_blank"><img src="/media/quantsight.png" alt="QuantSight" /></a>
 </div>
 </div>

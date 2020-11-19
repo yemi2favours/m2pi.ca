@@ -37,20 +37,21 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#contact"
-  label = "Get Started"
+  url = "/m2pi2020"
+  label = "M2PI 2020"
   icon_pack = "fas"
   icon = "download"
   
 #[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
+#  url = "#about"
+#  label = "M2PI 2021"
+#  icon_pack = "fas"
+#  icon = "download"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[cta_note]
+  label = 'Explore projects and reports from the 2020 edition of M2PI'
 +++
-
 **An Economic Stimulus Opportunity for Canada**
 
 
