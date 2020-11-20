@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "<em>Math<sup>Industry</sup></em>"
+title = "<em>Math<sup>Industry</sup> 2021</em>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#33cc33"
+  gradient_end = "#00cc00"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
