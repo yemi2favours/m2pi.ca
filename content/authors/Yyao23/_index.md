@@ -39,6 +39,8 @@ social:
 user_groups:
 - committee: members
   role: Ovintiv Project member
+tags:
+- '2020'
 ---
 Yao is a graduate student in Statistics at the University of Calgary. Her background is in data analysis, and her research field is the application of machine learning in financial mathematics.
 

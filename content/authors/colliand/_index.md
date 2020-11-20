@@ -63,4 +63,6 @@ email: "colliand@crowdmark.com"
 user_groups:
 - committee: organizing
   role: PIMS Director
+tags:
+- '2020'
 ---

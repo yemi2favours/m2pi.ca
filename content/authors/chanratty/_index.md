@@ -44,5 +44,7 @@ social:
 user_groups:
 - committee: members
   role: ATCO Project Member
+tags:
+- '2020'
 ---
 Chantelle has a master's degree in pure mathematics from the University of Alberta. She enjoyes problem solving and is passionate about math education and outreach. As a recent graduate, she is in a process of discovery and excited about the many different directions her career could take her.

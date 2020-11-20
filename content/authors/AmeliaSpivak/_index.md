@@ -30,4 +30,7 @@ social:
 user_groups:
 - committee: members
   role: ATCO Project member
+
+tags:
+- '2020'
 ---

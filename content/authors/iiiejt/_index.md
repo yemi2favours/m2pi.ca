@@ -44,6 +44,8 @@ social:
 user_groups:
 - committee: mentors
   role: Mentor
+tags:
+- '2020'
 ---
 Edward Timko is a PIMS Postdoctoral Fellow working in the field of operator theory at the University of Manitoba.
 Prior to his position at the University of Manitoba, he was a PhD student at the Indiana University Bloomington (IUB) in Pure Mathematics.

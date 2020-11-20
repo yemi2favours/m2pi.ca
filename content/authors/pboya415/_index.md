@@ -39,5 +39,7 @@ user_groups:
 - committee: members
   role: Fotech Solutions Project Member
 
+tags:
+- '2020'
 ---
 <p>Biostatistics graduate student with background in mathematics, statistics and programming skills. </p>

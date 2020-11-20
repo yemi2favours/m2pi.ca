@@ -43,5 +43,7 @@ social:
 user_groups:
 - committee: members
   role: Project ovintiv member
+tags:
+- '2020'
 ---
 I am currently a PhD student at the University of Regina. I work on option pricing and my major field of work is Financial Mathematics. I did my bachelor and master's degree in Mathematics and I worked on Numerical Solutions of Partial Differential Equations. 

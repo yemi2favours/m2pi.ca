@@ -38,5 +38,7 @@ social:
 user_groups:
 - committee: members
   role: Aerium Project member
+tags:
+- '2020'
 ---
 With some knowledge in Numerical PDE, Dispersive Equations, Harmonic Analysis and a bit knowledge in Python, MATLAB.

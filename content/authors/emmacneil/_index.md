@@ -43,6 +43,8 @@ social:
 user_groups:
 - committee: members
   role: Divi Project Member
+tags:
+- '2020'
 ---
 I am a recent graduate from the University of Calgary with a master's degree in Mathematics, currently looking to apply my skills in industry.
 My research was in divisor arithmetic on C34 curves, which can be thought of as an analogue of

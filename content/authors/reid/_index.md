@@ -35,6 +35,8 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+tags:
+- '2020'
 ---
 I, Dr. Edwin Walter Reid provide high quality engineering service targeted at
 applications where leading edge design, high quality, reliable performance, and

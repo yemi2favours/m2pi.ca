@@ -43,4 +43,6 @@ email: "bdurston@pims.math.ca"
 user_groups:
 - committee: organizing
 
+tags:
+- '2020'
 ---

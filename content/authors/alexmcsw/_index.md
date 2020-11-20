@@ -40,5 +40,7 @@ social:
 user_groups:
 - committee: members
   role: Divi project member
+tags:
+- '2020'
 ---
 Alexandra is a second year MSc student at the University of Ottawa. Her research is in category theory and representation theory. Alexandra is also interested in women's history of mathematics and is president of the Ottawa Association for Women in Math Student Chapter.

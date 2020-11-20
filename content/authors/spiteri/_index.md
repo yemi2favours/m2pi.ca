@@ -45,6 +45,8 @@ email: "spiteri@cs.usask.ca"
 user_groups:
 - committee: organizing
 
+tags:
+- '2020'
 ---
 My subject areas of research expertise are applied mathematics and computer
 science, in particular algorithms and software for continuous mathematics and

@@ -46,5 +46,10 @@ social:
 user_groups:
 - committee: members
   role: IOTO Goverlytics Project Member
+
+tags:
+- '2020'
+tags:
+- '2020'
 ---
 Diaaeldin Taha has a PhD in Mathematics from the University of Washington in Seattle. He is interested in dynamical systems, data science and their applications.

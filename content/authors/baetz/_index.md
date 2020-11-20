@@ -35,6 +35,8 @@ user_groups:
   role: Foundations in Project Management Instructor
 
 
+tags:
+- '2020'
 ---
 Mary is a respected advisor to boards of directors, leaders and teams. She is
 known for her work on governance, strategic planning, organizational design and

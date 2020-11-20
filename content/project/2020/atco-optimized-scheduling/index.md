@@ -52,6 +52,10 @@ url_video: ""
 slides: ""
 
 math: true
+
+tags:
+  - '2020'
+
 ---
 # Optimization of Employee Work Schedule,
 

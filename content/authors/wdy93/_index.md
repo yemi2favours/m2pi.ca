@@ -41,6 +41,8 @@ social:
 user_groups:
 - committee: members
   role: BSFSA Project member
+tags:
+- '2020'
 ---
 Dongying received her master's degree from the University of British Columbia in Fall 2017. 
 She is currently a PhD student studying the Data Sharpening methods in kernel regression. 

@@ -47,6 +47,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+tags:
+    - '2020'
 ---
 
 #  Automated region of interest creation for training sets

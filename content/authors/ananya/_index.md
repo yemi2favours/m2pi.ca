@@ -43,4 +43,6 @@ user_groups:
 - committee: instructors
   role: Ethics Instructor
 
+tags:
+- '2020'
 ---

@@ -39,5 +39,7 @@ social:
 user_groups:
 - committee: members
   role: BCFSA Project member member
+tags:
+- '2020'
 ---
 With mathematics background and two year's working experience as a quantatitive analyst, Leimin has enormous passion on data analysis.

@@ -46,6 +46,8 @@ email: "aherman@math.uregina.ca"
 user_groups:
 - committee: organizing
 
+tags:
+- '2020'
 ---
 Currently my research activity revolves around realization problems in ordinary
 and integral representation theory of groups and closely-related rings, which

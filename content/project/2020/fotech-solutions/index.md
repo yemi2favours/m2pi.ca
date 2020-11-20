@@ -45,6 +45,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 math: true
+
+tags:
+  - '2020'
 ---
 
 # Traffic monitoring with distributed acoustic sensing

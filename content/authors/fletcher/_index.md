@@ -35,6 +35,8 @@ user_groups:
   role: Foundations in Project Management Instructor
 
 
+tags:
+- '2020'
 ---
 For over twenty-two years Diane’s work has encompassed multiple areas of
 organization development including leadership, governance, planning, policy,

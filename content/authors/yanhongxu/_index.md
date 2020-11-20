@@ -37,5 +37,7 @@ social:
 user_groups:
 - committee: members
   role: ATCO Project member
+tags:
+- '2020'
 ---
 Yanhong is a PostDoc Associate in University of Calgary (UoC). She is currently working on hash-based signatures. Prior to joining UoC, She was a PhD student at Nanyang Technological University, Singapore. She was working on Lattice-based group signatures. Her research interests inlcude signatures and privacy-enhancing protocols.  

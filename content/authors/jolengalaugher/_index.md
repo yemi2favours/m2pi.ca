@@ -47,4 +47,6 @@ user_groups:
 - committee: instructors
   role: How to pitch a Solution Instructor
 
+tags:
+- '2020'
 ---

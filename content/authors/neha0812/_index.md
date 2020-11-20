@@ -44,4 +44,6 @@ social:
 user_groups:
 - committee: members
   role: BSFSA Project member
+tags:
+- '2020'
 ---

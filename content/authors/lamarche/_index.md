@@ -35,6 +35,8 @@ user_groups:
   role: Foundations in Project Management Instructor
 
 
+tags:
+- '2020'
 ---
 Lynne Lamarche thrives in creating experiential learning spaces and authentic
 dialogue. Her Organization Development practice of 25 years relies on

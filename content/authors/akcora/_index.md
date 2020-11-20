@@ -47,6 +47,8 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+tags:
+- '2020'
 ---
 Cuneyt Gurcan Akcora is an Assistant Professor of Computer Science and
 Statistics at the University of Manitoba, Canada. Before that, he was a

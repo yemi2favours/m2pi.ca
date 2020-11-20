@@ -44,6 +44,8 @@ social:
 user_groups:
 - committee: members
   role: ATCO Project member
+tags:
+- '2020'
 ---
 # About Me
 * I am Wali Mohammad Abdullah, a Ph.D student in the Mathematics & Computer Science department of University of Lethbridge, Canada.

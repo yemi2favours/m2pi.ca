@@ -39,5 +39,7 @@ social:
 user_groups:
 - committee: members
   role: ATCO Project member
+tags:
+- '2020'
 ---
 Yu-Hsiang Liu is a recent PhD graduate in Mathematics from the University of British Columbia. His PhD research is specialized in algebraic geometry, but he has developed an interests in data science.

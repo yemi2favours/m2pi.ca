@@ -45,5 +45,8 @@ social:
 user_groups:
 - committee: members
   role: McMillan-McGee Team Member
+
+tags:
+- '2020'
 ---
 I am a M.Sc. student at Mathematics department of Simon Fraser University. My background is in the areas of mechanical engineering and computational fluid dynamcis, while my current research is to implement new algorithms for solving partial differential equation on surfaces using parallel computing techniques. In general, modelling the physical phenomenon is of my interests, and I am open to learn new techniques to do so.

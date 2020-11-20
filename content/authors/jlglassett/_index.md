@@ -45,6 +45,8 @@ social:
 user_groups:
 - committee: members
   role: IOTO Goverlytics project member
+tags:
+- '2020'
 ---
 
 Jillian is a Ph.D. graduate from Washington State University, specializing in Linear Algebra and Combinatorial Matix Theory. 

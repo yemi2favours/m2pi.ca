@@ -49,4 +49,6 @@ user_groups:
   role: Chair
 - committee: instructors
   role: Effective Teams Instructor
+tags:
+- '2020'
 ---

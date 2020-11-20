@@ -46,6 +46,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+tags:
+  - '2020'
 ---
 
 # Compressibility of the transaction graph for the proof-of-protocol in a blockchain

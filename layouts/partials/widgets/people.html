@@ -32,6 +32,7 @@
     <div class="tab-pane fade{{ if eq .id "members" }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
       <div class="row auto-clear">
         {{ range $people := where site.Pages "Section" "authors" }}
+        {{ if in .Params.tags $page.Params.year }}
         {{ if isset .Params "user_groups" }}
         {{ range $groups := .Params.user_groups }}
         {{ if eq .committee $committee.id }}
@@ -61,6 +62,7 @@
         {{ end }} {{/* end if condition on committee membership */}}
         {{ end }} {{/* end loop on user groups */}}
         {{ end }} {{/* end if condition on group existence */}}
+        {{ end }} {{/* end if condition on tags */}}
         {{ end }} {{/* end range over authors */}}
       </div> <!-- row -->
     </div> <!-- tab pane -->

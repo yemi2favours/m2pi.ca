@@ -39,5 +39,7 @@ social:
 user_groups:
 - committee: members
   role: Environmental Instruments Canada project member
+tags:
+- '2020'
 ---
 Stephen Styles has studied fields in mathematical statistics and machine learning. During his studies, Stephen has trained as a statistical consultant where he has conducted analysis on varying topics. This year, Stephen will finish his MSc in Statistics at the University of Alberta, completing his research in stochastic processes.

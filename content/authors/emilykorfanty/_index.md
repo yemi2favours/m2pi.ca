@@ -39,5 +39,7 @@ social:
 user_groups:
 - committee: members
   role: Fotech Solutions Project Member
+tags:
+- '2020'
 ---
 Emily is a Master's student in Mathematics, studying at the University of Victoria. Her research is at the interface of dynamical systems and C*-algebras; she especially enjoys thinking about iterated function systems, and substitution tilings. As a co-op student, Emily has worked at the BC Ministry of Health, where she did reporting and data management for Home and Community Care services. Emily is also passionate about mathematics outreach, and has been involved with <a href="https://cms.math.ca/education/math-camps/">CMS Math Camps</a>, and the <a href="https://www.trentu.ca/conferences/programs">Trent University Enrichment Program</a>.  Emily's favourite pastimes are practicing Japanese tea ceremony, and playing the piano.  

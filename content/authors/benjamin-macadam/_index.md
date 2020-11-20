@@ -53,6 +53,8 @@ social:
 user_groups:
 - committee: members
   role: McMillan-McGee Project Member
+tags:
+- '2020'
 ---
 I am a PhD candidate in the programming languages lab at the University of Calgary. My research interests mainly revolve around tangent categories and their applications to differentiable programming and Lie theory.
 

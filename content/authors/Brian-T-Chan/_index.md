@@ -37,5 +37,7 @@ social:
 user_groups:
 - committee: members
   role: Fotech Solutions project member
+tags:
+- '2020'
 ---
 

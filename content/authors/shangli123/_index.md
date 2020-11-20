@@ -43,4 +43,6 @@ social:
 user_groups:
 - committee: members
   role: Divi Project Member
+tags:
+- '2020'
 ---

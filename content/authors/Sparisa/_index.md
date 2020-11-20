@@ -38,4 +38,6 @@ social:
 user_groups:
 - committee: members
   role: Cenovus Energy Project Member
+tags:
+- '2020'
 ---
