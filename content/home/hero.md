@@ -40,7 +40,7 @@ hero_media = "hero-academic.png"
   url = "/2020"
   label = "M2PI 2020"
   icon_pack = "fas"
-  icon = "download"
+  icon = "arrow-circle-right"
   
 #[cta_alt]
 #  url = "#about"
