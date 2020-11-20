@@ -37,10 +37,10 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/2020"
-  label = "M2PI 2020"
+  url = "#projects"
+  label = "2021 Projects"
   icon_pack = "fas"
-  icon = "arrow-circle-right"
+  icon = "arrow-circle-down"
   
 #[cta_alt]
 #  url = "#about"
