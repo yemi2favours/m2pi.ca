@@ -12,7 +12,7 @@ organization, and manipulation.  Working experience with libraries such as
 Pandas may be useful.  Previous experience with other programming languages such
 as Matlab or R is useful but not required."
 authors: [dong, moosvi, danieldibenedetto, yiwei, leimin23]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T16:59:33-07:00
 
@@ -49,8 +49,6 @@ slides: ""
 
 final_report: 'BCFSA-final.pdf'
 
-tags:
-  - '2020'
 ---
 
 # Housing price estimates/forecasts for BC real estate markets
