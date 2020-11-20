@@ -23,13 +23,13 @@
   <ul class="nav nav-pills nav-fill nav-justified" id="committeeTabs" role="tablist">
   {{ range $page.Params.content.user_groups }}
   <li class="nav-item">
-    <a class="nav-link {{ if eq .id "members" }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="{{ if eq .id "members" }}true{{ else }}false{{ end }}">{{ .name }}</a>
+    <a class="nav-link {{ if eq .id $page.Params.default_committee }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="{{ if eq .id $page.Params.default_committee }}true{{ else }}false{{ end }}">{{ .name }}</a>
   </li>
   {{ end }} 
   </ul>
   <div class="tab-content">
     {{ range $committee := $page.Params.content.user_groups }}
-    <div class="tab-pane fade{{ if eq .id "members" }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
+    <div class="tab-pane fade{{ if eq .id $page.Params.default_committee }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
       <div class="row auto-clear">
         {{ range $people := where site.Pages "Section" "authors" }}
         {{ if in .Params.tags $page.Params.year }}
