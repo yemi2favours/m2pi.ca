@@ -10,7 +10,7 @@ other method to automate this process?  The goal of this project is to develop a
 method which creates a mask of an image depicting where monochromatic objects
 occur in an image automatically and with limited user input."
 authors: [hardeman, ccontrer, li-keran, elaineliwang, jjzhuwu, yisui]
-tags: ["machine learning"]
+tags: ["machine learning", "2020"]
 categories: []
 date: 2020-07-23T16:57:49-07:00
 
@@ -48,8 +48,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-    - '2020'
+final_report: 'Aerium-final.pdf'
 ---
 
 #  Automated region of interest creation for training sets

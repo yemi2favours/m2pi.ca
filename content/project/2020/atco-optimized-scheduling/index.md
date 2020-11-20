@@ -16,7 +16,7 @@ combination of criteria which you deem to be important, and real-life data such
 as traffic, limitation on work schedule hours, commuting time and others."
 authors: [putkaradze, pan, swang, adili0505, chanratty, waliabdullah,
 yanhongxu, yuhsiangliu, AmeliaSpivak]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T17:00:22-07:00
 
@@ -53,8 +53,7 @@ slides: ""
 
 math: true
 
-tags:
-  - '2020'
+final_report: ATCO-final.pdf
 
 ---
 # Optimization of Employee Work Schedule,

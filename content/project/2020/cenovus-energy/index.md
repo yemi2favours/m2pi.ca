@@ -12,7 +12,7 @@ system? How do shape and connections in the transport network contribute to the
 propensity for frequency of the congestion and magnitude of congestion
 surcharge?"
 authors: [wei, safaian, erik-chan, sparisa, mahsaazizi]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T17:00:55-07:00
 
@@ -47,8 +47,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-  - '2020'
+final_report: Cenovus-final.pdf
 ---
 
 # Modelling Canadian Heavy Crude Congestion pricing using Capacitated Transport networks

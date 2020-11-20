@@ -12,7 +12,7 @@ alternatives. People interested in quantitative finance, commodity training and
 marketing, and bridging the gap between quantitative experts and non-experts
 would be excellent team members for this project."
 authors: [dalton, swischuk, aroldan8, elham-soufiani, smseifi, nag1201, yyao23]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T16:58:02-07:00
 
@@ -47,8 +47,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-  - '2020'
+final_report: Ovintiv-final.pdf
 ---
 
 # Practical Option Valuation with Negative Underlying Prices

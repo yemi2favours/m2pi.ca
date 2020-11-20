@@ -9,7 +9,7 @@ the progression of a bill into law in the US. A background in statistics or
 graph theory would be helpful.  Some background in computer programming or data
 science may be helpful, but not necessary."
 authors: [umaaron, dana996, danyi-liu, d-ta, jlglassett]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T16:58:32-07:00
 
@@ -44,8 +44,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-  - '2020'
+final_report: 'IOTO-final.pdf'
 ---
 
 

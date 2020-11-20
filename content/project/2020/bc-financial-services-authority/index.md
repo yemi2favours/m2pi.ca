@@ -47,6 +47,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+final_report: 'BCFSA-final.pdf'
+
 tags:
   - '2020'
 ---

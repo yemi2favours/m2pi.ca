@@ -13,7 +13,7 @@ integral transformations and differential equations would be essential
 background for this project."
 authors: [reid, bahri, rjt128, antoniatcenko, noahbolohan, AliRY95,
 benjamin-macadam]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T16:58:18-07:00
 
@@ -48,8 +48,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-  - '2020'
+final_report: McMillanMcGee.pdf
 ---
 
 

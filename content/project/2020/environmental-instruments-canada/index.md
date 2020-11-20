@@ -12,7 +12,7 @@ and the coupled differential equations describing a decay series would be
 useful.  A team with statistical expertise would be essential.  Some familiarity
 with spreadsheets such as Excel would be helpful."
 authors: [kaletsch, iiiejt, stephenstyles]
-tags: []
+tags: ['2020']
 categories: []
 date: 2020-07-23T16:59:13-07:00
 
@@ -47,8 +47,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-tags:
-  - '2020'
+final_report: EIC-final.pdf
 ---
 
 
