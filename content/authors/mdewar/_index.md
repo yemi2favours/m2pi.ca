@@ -45,4 +45,7 @@ social:
 user_groups:
 - committee: organizing
 
+tags:
+- '2020'
+- '2021'
 ---

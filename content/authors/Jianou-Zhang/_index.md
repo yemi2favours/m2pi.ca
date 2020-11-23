@@ -36,5 +36,7 @@ social:
 user_groups:
 - committee: members
   role: Fotech Solutions Project member
+tags:
+- '2020'
 ---
 I am a recent graduate students with MSc degree from University of Saskatchewan. My research field is Bayesian Analysis on Item Response Theory (IRT) Model. 

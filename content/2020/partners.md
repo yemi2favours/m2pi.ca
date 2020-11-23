@@ -1,0 +1,1 @@
+../home/partners.md

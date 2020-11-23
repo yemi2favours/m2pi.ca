@@ -40,4 +40,6 @@ social:
 user_groups:
 - committee: members
   role: Aerium-Analytics Project Member
+tags:
+- '2020'
 --- Li Wang is a math PhD student at University of British Columbia.  Her research interest are partial differential equations and mathematical physics. 

@@ -39,6 +39,8 @@ social:
 user_groups:
 - committee: members
   role: McMillan-McGee Team Member
+tags:
+- '2020'
 ---
 Ryan is a Master's student at the University of Alberta, working on an analysis of scaling limits
 of the kinetic chemotaxis equation. He is interested in modelling with partial differential equations.

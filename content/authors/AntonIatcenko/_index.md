@@ -39,6 +39,9 @@ social:
 user_groups:
 - committee: members
   role: McMillan-McGee Team Member
+
+tags:
+- '2020'
 ---
 Anton is a PhD student at the Departmen of Mathematics at SFU. His background is mostly in the areas of pde analysis and kinetic theory, while the current 
 interests are leaning towards numerical solutions of partial differential equations and mathematical modelling. 

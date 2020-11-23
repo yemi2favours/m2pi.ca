@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+     name = "2021"
+     tag = "2021"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+New projects will be added here when they are available.

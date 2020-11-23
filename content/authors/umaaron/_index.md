@@ -32,4 +32,6 @@ social:
 user_groups:
 - committee: members
   role: Project Ioto-international Member.
+tags:
+- '2020'
 ---

@@ -38,5 +38,7 @@ social:
 user_groups:
 - committee: members
   role: IOTO Goverlytic Project Member
+tags:
+- '2020'
 ---
 

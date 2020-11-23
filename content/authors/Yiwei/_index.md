@@ -45,5 +45,7 @@ email: "yiwei14@ualberta.ca"
 user_groups:
 - committee: members
   role: BCFSA Project member
+tags:
+- '2020'
 ---
 Yiwei Huang is a master student in Univeristy of Alberta.She is working on her final project which is related to power analysis. Also,she has great interest in machine learning and data science.

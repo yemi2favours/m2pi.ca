@@ -43,6 +43,8 @@ social:
 user_groups:
 - committee: members
   role: IOTO Goverlytics Project member
+tags:
+- '2020'
 ---
 
 Dana is currently finishing her master's degree in mathematics at McGill University, where she wrote her thesis on the classification of quantum limits. An aspiring Data Scientist, she hopes that her creativity, interest in algorithm design, and technical experience will pave way for an exciting career.

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "<em>Math<sup>Industry</sup></em>"
+title = "<em>Math<sup>Industry</sup> 2021</em>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#33cc33"
+  gradient_end = "#00cc00"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,20 +37,21 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#contact"
-  label = "Get Started"
+  url = "#projects"
+  label = "2021 Projects"
   icon_pack = "fas"
-  icon = "download"
+  icon = "arrow-circle-down"
   
 #[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
+#  url = "#about"
+#  label = "M2PI 2021"
+#  icon_pack = "fas"
+#  icon = "download"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[cta_note]
+  label = 'Explore projects and reports from the 2020 edition of M2PI'
 +++
-
 **An Economic Stimulus Opportunity for Canada**
 
 

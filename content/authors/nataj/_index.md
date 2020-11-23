@@ -49,6 +49,8 @@ social:
 user_groups:
 - committee: members
   role: Project member, Fotech Solutions
+tags:
+- '2020'
 ---
 I am working on Project: Traffic monitoring with distributed acoustic sensing for Fotech Solutions company
 

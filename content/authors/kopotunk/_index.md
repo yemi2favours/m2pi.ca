@@ -47,4 +47,6 @@ email: "kirill.kopotun@umanitoba.ca"
 user_groups:
 - committee: organizing
 
+tags:
+- '2020'
 ---

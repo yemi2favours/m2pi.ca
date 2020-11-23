@@ -59,3 +59,31 @@
 section#skills .featurette-icon {
     color: #2962ff;
 }
+
+div#m2pi-iterations a {
+    padding: .375rem .75rem;
+    margin: .5rem;
+}
+
+
+section#announcement {
+    color: #153385;
+    background-color: #d4e0ff;
+    div.alert-bg {
+        max-width: 100%;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+
+
+        div.alert {
+            margin: 0;
+            border: none;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+    }
+    padding: 0;
+    margin: 0;
+}
+

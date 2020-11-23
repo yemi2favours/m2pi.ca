@@ -35,6 +35,8 @@ user_groups:
   role: Foundations in Project Management Instructor
 
 
+tags:
+- '2020'
 ---
 France Cloutier is an Organization Development consultant with a focus on
 organizational change and transformation.  She brings a practical approach to

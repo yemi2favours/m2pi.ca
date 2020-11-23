@@ -47,6 +47,8 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+tags:
+- '2020'
 ---
 I am a teaching and learning fellow in the Master of Data Science program at the
 University of British Columbia. I received my PhD in Physics from the Reinsberg

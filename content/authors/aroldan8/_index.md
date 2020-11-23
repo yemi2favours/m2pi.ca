@@ -44,5 +44,7 @@ social:
 user_groups:
 - committee: members
   role: Ovintiv Project member
+tags:
+- '2020'
 ---
 PhD Student at U of Calgary; Research Economist at Banco de Mexico

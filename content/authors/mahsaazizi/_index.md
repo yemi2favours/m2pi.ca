@@ -40,5 +40,7 @@ social:
 user_groups:
 - committee: members
   role: Cenovus Project Memeber
+tags:
+- '2020'
 ---
 Mahsa is a recent M.Sc. graduate in Computer Science from the University of Saskatchewan. 

@@ -41,5 +41,7 @@ social:
 user_groups:
 - committee: members
   role: BCFSA Project Member
+tags:
+- '2020'
 ---
 Daniel is a Mathematics PhD student at The University of British Columbia, where his research focuses on combinatorics and harmonic analysis. He has recently developed an interest in a number of applied areas including quantitative finance, machine learning and data science.

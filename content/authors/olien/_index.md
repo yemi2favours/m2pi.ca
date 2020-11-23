@@ -36,6 +36,8 @@ user_groups:
 - committee: instructors
   role: Linked-in and Netlify Course Instructor
 
+tags:
+- '2020'
 ---
 Leonard Olien is an expert in analytics, electricity markets and renewable
 energy.  Since completing an MSc. in Mathematics at McGill University, Leonard

@@ -39,5 +39,7 @@ social:
 user_groups:
 - committee: members
   role: Cenovus Project Member
+tags:
+- '2020'
 ---
 Erik is a recent M.Sc graduate in applied mathematics at the University of Calgary. His research investigated the modeling electricity markets under the influence of market power. He is also the technical editor for Contributions to Discrete Mathematics, a journal dedicated to areas such as combinatorics and graph theory, discrete optimization, and theoretical computer science.

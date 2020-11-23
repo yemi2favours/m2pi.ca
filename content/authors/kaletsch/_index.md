@@ -37,4 +37,6 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+tags:
+- '2020'
 ---

@@ -39,4 +39,6 @@ social:
 user_groups:
 - committee: members
   role: Aerium Analytics Project Member
+tags:
+- '2020'
 ---
