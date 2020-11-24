@@ -24,3 +24,7 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[ redirects ]]
+  from = "/2021"
+  to   = "/"
