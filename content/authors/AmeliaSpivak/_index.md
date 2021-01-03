@@ -14,7 +14,7 @@ organizations:
   url: https://www.berkeley.edu/
 # A list of your interests, add as many as you want
 interests:
-- Mathemtaical Physics
+- Mathematical Physics
 - Applied Logic
 # Your educational history, add as many as you want
 education:
