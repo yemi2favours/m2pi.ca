@@ -21,7 +21,7 @@ draft: false
 <em>Math<sup>Industry</sup></em> (Math to power industry) is a professional development
 school for graduate students and postdoctoral fellows in the mathematical
 sciences. The students in <em>Math<sup>Industry</sup></em> already have extremely
-valuable technical skills. At <em>Math<sup>Industry</sup></em>, we equip them with the
+valuable technical skills. At <em>Math<sup>Industry</sup></em> we equip them with the
 professional skills they need to excel in non-academic environments. Teams of
 students are matched with industry partners to exercise their skills using
 tried-and-true work integrated learning techniques which have worked for more
@@ -34,7 +34,7 @@ of their business.
 Canadian universities train thousands of graduate students in the mathematical
 sciences each year. These students are a national resource that must not be
 underutilized. Ideas from the mathematical sciences are vital to Canada's
-industry sectors. Predictive models, data analysis,optimization, computation and
+industry sectors. Predictive models, data analysis, optimization, computation and
 other mathematical insights can be used in making business decisions accurately
 and effectively.
 
@@ -49,20 +49,27 @@ to redirect the talent pool towards activities that will drive Canada’s econom
 recovery.
 
 ## The Win-Win-Win of <em>Math<sup>Industry</sup></em>
-Math^Industry provides an enriched opportunity for students, industry partners,
-and academic mentors alike. Check out the industry problems that were submitted
-and the solutions our participants obtained in 2020.
+<em>Math<sup>Industry</sup></em> provides an enriched opportunity for students,
+industry partners, and academic mentors alike. Check out the industry problems
+that were submitted and the solutions our participants obtained in
+[2020](/2020/).
+
 
 <ul class="fa-ul fa-2x highlight-list">
   <li><span class="fa-li"><i class="fas fa-book-reader"></i></span><div
-  class="li-description">Participants
-  receive hands-on experience, showcase skills, connections to jobs or
+  class="li-description">Participants receive
+  hands-on experience, showcase skills, connections to jobs or
   internships.</div></li>
-  <li><span class="fa-li"><i class="far fa-building fa-fw"></i></span><div class="li-description">Industry can recruit talent, connect to <a href="https://www.mitacs.ca/en/programs" target="_blank">Mitacs programs</a>, obtain fast solutions to business problems. This can equate to a cost savings of $10K.</div></li>
-  <li><span class="fa-li"><i class="fas fa-tasks fa-fw"></i></span><div class="li-description">Mentors get exposure to new ideas, access to data or other scientific resources, networking, potential for long-term collaboration.</div></li>
+  <li><span class="fa-li"><i class="fas fa-building"></i></span><div
+  class="li-description">Industry can connect to <a
+  href="https://mitacs.ca/en/programs" target="_blank">Mitacs programs</a> and
+  obtain fast solutions to business problems.  Networking with talent can equate
+  to a cost savings of up to $10K in recruitment expenses.</div></li>
+  <li><span class="fa-li"><i class="fas fa-tasks"></i></span><div
+  class="li-description">Mentors get exposure to new ideas, access to data or
+  other scientific resources, networking, potential for long-term
+  collaboration.</div></li>
 </ul>
-
-
 
 
 ## The Program
