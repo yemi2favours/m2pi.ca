@@ -52,7 +52,7 @@ recovery.
 <em>Math<sup>Industry</sup></em> provides an enriched opportunity for students,
 industry partners, and academic mentors alike. Check out the industry problems
 that were submitted and the solutions our participants obtained in
-[2020](/2020/).
+[<em>Math<sup>Industry</sup></em> 2020](/2020/).
 
 
 <ul class="fa-ul fa-2x highlight-list">
