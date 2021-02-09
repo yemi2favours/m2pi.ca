@@ -105,24 +105,51 @@ You could be part of the next <em>Math<sup>Industry</sup></em> workshop! The nex
 workshop is coming soon. We are seeking problems for our teams, and sponsors.
 Contact us!
 
+<br>
 <form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputName" class="col-sm-2 col-form-label">Your Name</label>
+    -->
+    <div class="col-sm-8">
+      <input type="text" class="form-control" id="inputName" placeholder="Name">
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputEmail" class="col-sm-2 col-form-label">Your Email</label>
+    -->
+    <div class="col-sm-8">
+      <input type="email" class="form-control" id="inputEmail"
+      aria-describedby="emailHelp" placeholder="Your email">
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputMessage" class="col-sm-2 col-form-label">Your Message</label>
+    -->
+    <div class="col-sm-8">
+      <textarea class="form-control" id="inputMessage" rows="5"
+      placeholder="Tell us about your project"></textarea>
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4">
+      <button type="submit" class="btn btn-primary btn-lg btn-block">Send</button>
+    </div>
+    <div class="col-sm-4"></div>
+    </div>
+  </div>
 </form>
+<br>
 
-Kristine Bauer
-bauerk@ucalgary.ca
-Chair, PIMS Industry Committee
 
 ### 2020 Industry Partners
 * Aerium Analytics Inc.
