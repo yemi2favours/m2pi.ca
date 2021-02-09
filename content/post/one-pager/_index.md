@@ -106,16 +106,19 @@ workshop is coming soon. We are seeking problems for our teams, and sponsors.
 Contact us!
 
 <br>
-<form name="one-pager-contact" method="POST" data-netlify="true">
+<form name="one-pager-contact" data-netlify-recaptcha="true" method="POST" data-netlify="true">
   <div class="form-group row">
     <div class="col-sm-2"></div>
     <!--
     <label for="inputName" class="col-sm-2 col-form-label">Your Name</label>
     -->
     <div class="col-sm-8">
-      <input type="text" class="form-control" id="inputName" placeholder="Your name">
+      <input type="text" class="form-control" id="inputName" name="inputName" placeholder="Your name">
     </div>
     <div class="col-sm-2"></div>
+  </div>
+  <div class="d-none">
+    <label>Don’t fill this out if you’re human: <input name="honeyField" /></label>
   </div>
   <div class="form-group row">
     <div class="col-sm-2"></div>
@@ -123,7 +126,7 @@ Contact us!
     <label for="inputEmail" class="col-sm-2 col-form-label">Your Email</label>
     -->
     <div class="col-sm-8">
-      <input type="email" class="form-control" id="inputEmail"
+      <input type="email" class="form-control" id="inputEmail" name="inputEmail"
       aria-describedby="emailHelp" placeholder="Your email">
     </div>
     <div class="col-sm-2"></div>
@@ -135,10 +138,12 @@ Contact us!
     -->
     <div class="col-sm-8">
       <textarea class="form-control" id="inputMessage" rows="5"
+      name="inputMessage"
       placeholder="Tell us about your project"></textarea>
     </div>
     <div class="col-sm-2"></div>
   </div>
+  <div data-netlify-recaptcha="true">
   <div class="form-group row">
     <div class="col-sm-4"></div>
     <div class="col-sm-4">
