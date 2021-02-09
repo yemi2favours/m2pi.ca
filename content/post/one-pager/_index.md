@@ -13,7 +13,7 @@ draft: false
 ---
 <div class="btn-links mb-3">
   <a class="btn btn-outline-primary my-1 mr-1"
-  href="./MathXIndustry-OnePager-2021.pdf" target="_blank"
+  href="./MathIndustry.pdf" target="_blank"
   rel="noopener">PDF</a>
 </div>
 
