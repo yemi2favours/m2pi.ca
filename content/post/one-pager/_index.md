@@ -41,7 +41,11 @@ and effectively.
 At <em>Math<sup>Industry</sup></em>, we have developed a cohort-based job training and
 placement program to help ensure that highly skilled personnel will be ready and
 able to advance Canada’s economy. Studies by Deloitte have demonstrated the
-enormous impact that the mathematical sciences have on the UK and Dutch
+enormous impact that the mathematical sciences have on the <a
+href="https://epsrc.ukri.org/newsevents/pubs/deloitte-measuring-the-economic-benefits-of-mathematical-science-research-in-the-uk/" target="_blank">UK <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+ and
+<a href="https://euro-math-soc.eu/system/files/uploads/DeloitteNL.pdf"
+target="_blank">Dutch <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
 economies. For Canada, this is more important now than ever. The economic
 ramifications of the pandemic are likely to significantly reduce opportunities
 in academic career pathways for a generation of young researchers. Our goal is
@@ -74,14 +78,14 @@ that were submitted and the solutions our participants obtained in
 
 ## The Program
 The <em>Math<sup>Industry</sup></em> program is offered each summer over the course of 4
-weeks. The program combines a two-week training bootcamp in programming and
+weeks. The program combines a two-week training bootcamp in software and
 business skills with a two-week intensive team-based project. Interdisciplinary
 teams, anchored with academic and industrial mentors, will be convened to focus
 on industrial problems. Teams are supported with resources to facilitate
 effective collaboration. The bootcamp and team project together give students
 the experience of integrating classroom learning with work experience, making
 graduates of our program uniquely qualified. The <em>Math<sup>Industry</sup></em> program
-builds on more than 20 year of PIMS experience offering other industrial
+builds on more than 20 years of PIMS experience offering other industrial
 training opportunities, such as Industrial Problem Solving Workshops
 ([IPSW](https://www.pims.math.ca/industrial/industrial-workshops)):
 
@@ -100,6 +104,21 @@ preference given to students enrolled in PIMS member universities.
 You could be part of the next <em>Math<sup>Industry</sup></em> workshop! The next
 workshop is coming soon. We are seeking problems for our teams, and sponsors.
 Contact us!
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 Kristine Bauer
 bauerk@ucalgary.ca
