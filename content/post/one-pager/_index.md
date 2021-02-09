@@ -149,7 +149,8 @@ Contact us!
       <button type="submit" class="btn btn-outline-primary btn-lg btn-block">Send</button>
     </div>
     <div class="col-sm-4"></div>
-    </div>
+  </div>
+  <div class="form-group row">
     <div class="col-sm-4"></div>
     <div class="col-sm-4" data-netlify-recaptcha="true"></div>
     <div class="col-sm-4"></div>
