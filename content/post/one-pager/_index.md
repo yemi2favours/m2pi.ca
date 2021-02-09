@@ -18,7 +18,7 @@ draft: false
 </div>
 
 ## About
-<em>Math<sup>Industry</sup></em> (Math to power industry) is a professional development
+<em>Math<sup>Industry</sup></em> (Math to Power Industry) is a professional development
 school for graduate students and postdoctoral fellows in the mathematical
 sciences. The students in <em>Math<sup>Industry</sup></em> already have extremely
 valuable technical skills. At <em>Math<sup>Industry</sup></em> we equip them with the
@@ -41,7 +41,11 @@ and effectively.
 At <em>Math<sup>Industry</sup></em>, we have developed a cohort-based job training and
 placement program to help ensure that highly skilled personnel will be ready and
 able to advance Canada’s economy. Studies by Deloitte have demonstrated the
-enormous impact that the mathematical sciences have on the UK and Dutch
+enormous impact that the mathematical sciences have on the <a
+href="https://epsrc.ukri.org/newsevents/pubs/deloitte-measuring-the-economic-benefits-of-mathematical-science-research-in-the-uk/" target="_blank">UK</a>
+ and
+<a href="https://euro-math-soc.eu/system/files/uploads/DeloitteNL.pdf"
+target="_blank">Dutch </a>
 economies. For Canada, this is more important now than ever. The economic
 ramifications of the pandemic are likely to significantly reduce opportunities
 in academic career pathways for a generation of young researchers. Our goal is
@@ -74,14 +78,14 @@ that were submitted and the solutions our participants obtained in
 
 ## The Program
 The <em>Math<sup>Industry</sup></em> program is offered each summer over the course of 4
-weeks. The program combines a two-week training bootcamp in programming and
+weeks. The program combines a two-week training bootcamp in software and
 business skills with a two-week intensive team-based project. Interdisciplinary
 teams, anchored with academic and industrial mentors, will be convened to focus
 on industrial problems. Teams are supported with resources to facilitate
 effective collaboration. The bootcamp and team project together give students
 the experience of integrating classroom learning with work experience, making
 graduates of our program uniquely qualified. The <em>Math<sup>Industry</sup></em> program
-builds on more than 20 year of PIMS experience offering other industrial
+builds on more than 20 years of PIMS experience offering other industrial
 training opportunities, such as Industrial Problem Solving Workshops
 ([IPSW](https://www.pims.math.ca/industrial/industrial-workshops)):
 
@@ -101,9 +105,59 @@ You could be part of the next <em>Math<sup>Industry</sup></em> workshop! The nex
 workshop is coming soon. We are seeking problems for our teams, and sponsors.
 Contact us!
 
-Kristine Bauer
-bauerk@ucalgary.ca
-Chair, PIMS Industry Committee
+<br>
+<form name="one-pager-contact" data-netlify-recaptcha="true" method="POST" data-netlify="true">
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputName" class="col-sm-2 col-form-label">Your Name</label>
+    -->
+    <div class="col-sm-8">
+      <input type="text" class="form-control" id="inputName" name="inputName" placeholder="Your name">
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="d-none">
+    <label>Don’t fill this out if you’re human: <input name="honeyField" /></label>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputEmail" class="col-sm-2 col-form-label">Your Email</label>
+    -->
+    <div class="col-sm-8">
+      <input type="email" class="form-control" id="inputEmail" name="inputEmail"
+      aria-describedby="emailHelp" placeholder="Your email">
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <!--
+    <label for="inputMessage" class="col-sm-2 col-form-label">Your Message</label>
+    -->
+    <div class="col-sm-8">
+      <textarea class="form-control" id="inputMessage" rows="5"
+      name="inputMessage"
+      placeholder="Tell us about your project"></textarea>
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4">
+      <button type="submit" class="btn btn-outline-primary btn-lg btn-block">Send</button>
+    </div>
+    <div class="col-sm-4"></div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4" data-netlify-recaptcha="true"></div>
+    <div class="col-sm-4"></div>
+  </div>
+</form>
+<br>
+
 
 ### 2020 Industry Partners
 * Aerium Analytics Inc.
