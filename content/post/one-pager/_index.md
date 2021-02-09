@@ -1,5 +1,5 @@
 ---
-title: "Math^Industry"
+title: "Math to Power Industry"
 subtitle: "An Economic Stimulus Opportunity for Canada"
 authors: kbauer
 date: 2021-02-07T18:01:32-0800
