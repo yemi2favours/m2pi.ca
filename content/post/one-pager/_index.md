@@ -143,7 +143,6 @@ Contact us!
     </div>
     <div class="col-sm-2"></div>
   </div>
-  <div data-netlify-recaptcha="true">
   <div class="form-group row">
     <div class="col-sm-4"></div>
     <div class="col-sm-4">
@@ -151,6 +150,9 @@ Contact us!
     </div>
     <div class="col-sm-4"></div>
     </div>
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4" data-netlify-recaptcha="true"></div>
+    <div class="col-sm-4"></div>
   </div>
 </form>
 <br>
