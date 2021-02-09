@@ -106,7 +106,7 @@ workshop is coming soon. We are seeking problems for our teams, and sponsors.
 Contact us!
 
 <br>
-<form name="contact" method="POST" data-netlify="true">
+<form name="one-pager-contact" method="POST" data-netlify="true">
   <div class="form-group row">
     <div class="col-sm-2"></div>
     <!--
