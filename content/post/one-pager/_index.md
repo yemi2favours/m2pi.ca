@@ -18,7 +18,7 @@ draft: false
 </div>
 
 ## About
-<em>Math<sup>Industry</sup></em> (Math to power industry) is a professional development
+<em>Math<sup>Industry</sup></em> (Math to Power Industry) is a professional development
 school for graduate students and postdoctoral fellows in the mathematical
 sciences. The students in <em>Math<sup>Industry</sup></em> already have extremely
 valuable technical skills. At <em>Math<sup>Industry</sup></em> we equip them with the
@@ -42,10 +42,10 @@ At <em>Math<sup>Industry</sup></em>, we have developed a cohort-based job traini
 placement program to help ensure that highly skilled personnel will be ready and
 able to advance Canada’s economy. Studies by Deloitte have demonstrated the
 enormous impact that the mathematical sciences have on the <a
-href="https://epsrc.ukri.org/newsevents/pubs/deloitte-measuring-the-economic-benefits-of-mathematical-science-research-in-the-uk/" target="_blank">UK <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+href="https://epsrc.ukri.org/newsevents/pubs/deloitte-measuring-the-economic-benefits-of-mathematical-science-research-in-the-uk/" target="_blank">UK</a>
  and
 <a href="https://euro-math-soc.eu/system/files/uploads/DeloitteNL.pdf"
-target="_blank">Dutch <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+target="_blank">Dutch </a>
 economies. For Canada, this is more important now than ever. The economic
 ramifications of the pandemic are likely to significantly reduce opportunities
 in academic career pathways for a generation of young researchers. Our goal is
