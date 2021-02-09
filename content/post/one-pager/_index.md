@@ -113,7 +113,7 @@ Contact us!
     <label for="inputName" class="col-sm-2 col-form-label">Your Name</label>
     -->
     <div class="col-sm-8">
-      <input type="text" class="form-control" id="inputName" placeholder="Name">
+      <input type="text" class="form-control" id="inputName" placeholder="Your name">
     </div>
     <div class="col-sm-2"></div>
   </div>
