@@ -24,8 +24,8 @@
   weight = 60
 
 [[main]]
-  name = "Previous"
-  url = "#past"
+  name = "Editions"
+  url = "#editions"
   weight = 70
 
 [[main]]

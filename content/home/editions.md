@@ -7,12 +7,12 @@ weight = 60  # Order that this section will appear.
 
 columns = 1
 
-title = "Previous Editions"
+title = "Math<sup>Industry</sup> Editions"
 subtitle = "Explore the projects and reports from previous editions of <em>Math<sup>Industry</sup></em>"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 1, 2006"
+date_format = "2006"
 
 # Editions.
 #   Add/remove as many `[[edition]]` blocks below as you like.
@@ -24,9 +24,9 @@ date_format = "Jan 1, 2006"
   edition_url = "/"
   location = ""
   date_start = "2021-08-01"
-  date_end = "2020-08-30"
+  date_end = ""
   description = """
-  Now accepting proposals for new projects.
+We are now accepting proposals for new projects. Please <a href="#contact">contact us</a> for more information.
   """
 [[edition]]
   title = "Math<sup>Industry</sup> 2020"
@@ -35,20 +35,19 @@ date_format = "Jan 1, 2006"
   date_start = "2020-08-01"
   date_end = "2020-08-30"
   description = """
-  ##### 2020 Industry Partners
-  * Aerium Analytics Inc.
-  * ATCO Ltd.
-  * BC Financial Services Authority
-  * Cenovus Energy Inc.
-  * The Divi Project
-  * Environmental Instruments Canada Inc.
-  * Fotech Solutions
-  * IOTO International Inc.
-  * McMillan-McGee Corporation
-  * Ovintiv Inc.
+##### 2020 Industry Partners
+* Aerium Analytics Inc.
+* ATCO Ltd.
+* BC Financial Services Authority
+* Cenovus Energy Inc.
+* The Divi Project
+* Environmental Instruments Canada Inc.
+* Fotech Solutions
+* IOTO International Inc.
+* McMillan-McGee Corporation
+* Ovintiv Inc.
 
-  View the <a href="/2020/final-report/M2PI-FinalReport.pdf" target="_blank">
-  final report</a>
+View the [2020 final report](/2020/final-report/M2PI-FinalReport.pdf).
   """
 
 +++
