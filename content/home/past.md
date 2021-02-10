@@ -20,6 +20,15 @@ date_format = "Jan 1, 2006"
 #   Leave `date_end` empty if it's ongoing
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[edition]]
+  title = "Math<sup>Industry</sup> 2021"
+  edition_url = "/"
+  location = ""
+  date_start = "2021-08-01"
+  date_end = "2020-08-30"
+  description = """
+  Now accepting proposals for new projects.
+  """
+[[edition]]
   title = "Math<sup>Industry</sup> 2020"
   edition_url = "/2020/"
   location = ""
@@ -38,7 +47,8 @@ date_format = "Jan 1, 2006"
   * McMillan-McGee Corporation
   * Ovintiv Inc.
 
-  View the [Final Report](/2020/final-report/M2PI-FinalReport.pdf)
+  View the <a href="/2020/final-report/M2PI-FinalReport.pdf" target="_blank">
+  final report</a>
   """
 
 +++
