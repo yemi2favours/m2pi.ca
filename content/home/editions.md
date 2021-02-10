@@ -28,6 +28,7 @@ date_format = "2006"
   description = """
 We are now accepting proposals for new projects. Please <a href="#contact">contact us</a> for more information.
   """
+
 [[edition]]
   title = "Math<sup>Industry</sup> 2020"
   edition_url = "/2020/"
@@ -35,6 +36,7 @@ We are now accepting proposals for new projects. Please <a href="#contact">conta
   date_start = "2020-08-01"
   date_end = "2020-08-30"
   description = """
+Projects, reports, team members and other details are available on the [Math<sup>Industry</sup> 2020 page](/2020/).
 ##### 2020 Industry Partners
 * Aerium Analytics Inc.
 * ATCO Ltd.
@@ -47,7 +49,6 @@ We are now accepting proposals for new projects. Please <a href="#contact">conta
 * McMillan-McGee Corporation
 * Ovintiv Inc.
 
-View the [2020 final report](/2020/final-report/M2PI-FinalReport.pdf).
   """
 
 +++
