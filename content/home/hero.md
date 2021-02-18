@@ -20,9 +20,9 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#33cc33"
-  gradient_end = "#00cc00"
-  
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -50,7 +50,7 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Explore projects and reports from the 2020 edition of M2PI'
+  label = 'August 3 to August 27, 2021 (gala August 26)'
 +++
 **An Economic Stimulus Opportunity for Canada**
 
