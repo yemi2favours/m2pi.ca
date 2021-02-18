@@ -50,7 +50,7 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Explore projects and reports from the 2020 edition of M2PI'
+  label = 'August 3 to August 27, 2021 (gala August 26)'
 +++
 **An Economic Stimulus Opportunity for Canada**
 
