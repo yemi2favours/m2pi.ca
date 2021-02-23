@@ -13,7 +13,7 @@ columns = "2"
 +++
 <div class="row">
 <div class="col-lg-3 sponsor">
-    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo-25.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
