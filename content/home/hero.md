@@ -38,13 +38,13 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
-  label = "Participants"
+  label = "Participant Registration"
   icon_pack = "fas"
   icon = "users"
   
 [cta_alt]
   url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
-  label = "Mentors"
+  label = "Mentor Registration"
   icon_pack = "fas"
   icon = "chalkboard-teacher"
 
@@ -65,5 +65,6 @@ The workshop will consist of two main components:
 2. Business skills for effective teamwork and technical report writing
 
 Attendees will gain hands-on experience as part of a team working on a
-real-world problem posed by an industry partner. If you're interested as a
-participant or mentor please get in touch to learn more.
+real-world problem posed by an industry partner. If you're a graduate student or
+PDF interested in participating or if you're a PDF, instructor or faculty member
+who is interested in mentoring, please get in touch

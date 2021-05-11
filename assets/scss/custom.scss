@@ -105,3 +105,11 @@ div.experience {
     font-size: 1.2rem;
     max-width: inherit;
 }
+
+p.cta-btns, p.hero-note {
+    text-align: center;
+}
+p.cta-btns a.btn {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
