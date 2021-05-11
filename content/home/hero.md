@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "<em>Math<sup>Industry</sup> 2021</em>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+#hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#005cb9"
+  gradient_end = "#005cb9"
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,16 +37,16 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#projects"
-  label = "2021 Projects"
+  url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
+  label = "Participants"
   icon_pack = "fas"
-  icon = "arrow-circle-down"
+  icon = "users"
   
-#[cta_alt]
-#  url = "#about"
-#  label = "M2PI 2021"
-#  icon_pack = "fas"
-#  icon = "download"
+[cta_alt]
+  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
+  label = "Mentors"
+  icon_pack = "fas"
+  icon = "chalkboard-teacher"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -54,4 +54,16 @@ hero_media = "hero-academic.png"
 +++
 **An Economic Stimulus Opportunity for Canada**
 
+Together with our partners, PIMS will be offering a 4-week virtual
+Math<sup>Industry</sup> workshop geared to graduate students and
+postdoctoral fellows in mathematical and statistical sciences to gain the
+industry skills needed to have success in their careers.
 
+The workshop will consist of two main components:
+
+1. Technical skills in programming and computational workflows
+2. Business skills for effective teamwork and technical report writing
+
+Attendees will gain hands-on experience as part of a team working on a
+real-world problem posed by an industry partner. If you're interested as a
+participant or mentor please get in touch to learn more.
