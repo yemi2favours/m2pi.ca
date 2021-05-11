@@ -38,13 +38,13 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
-  label = "Participant Registration"
+  label = "Participant Survey"
   icon_pack = "fas"
   icon = "users"
   
 [cta_alt]
   url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
-  label = "Mentor Registration"
+  label = "Mentor Survey"
   icon_pack = "fas"
   icon = "chalkboard-teacher"
 
