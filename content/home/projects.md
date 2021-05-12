@@ -1,12 +1,12 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Propose a problem"
 
 [content]
   # Page type to display. E.g. project.
@@ -74,5 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-We are currently accepting proposals for new projects. Please [contact
-us](/#contact) if you would like to be involved.
+Math<sup>Industry</sup> aims to match mathematical talent with real problems
+from industry. If you would like to propose a problem, or if you want to learn
+more, please [contact us](#contact) to learn more. 
