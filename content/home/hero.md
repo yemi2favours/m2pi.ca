@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "<em>Math<sup>Industry</sup> 2021</em>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+#hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,16 +37,16 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#projects"
-  label = "2021 Projects"
+  url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
+  label = "Participant Survey"
   icon_pack = "fas"
-  icon = "arrow-circle-down"
+  icon = "users"
   
-#[cta_alt]
-#  url = "#about"
-#  label = "M2PI 2021"
-#  icon_pack = "fas"
-#  icon = "download"
+[cta_alt]
+  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
+  label = "Mentor Survey"
+  icon_pack = "fas"
+  icon = "chalkboard-teacher"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -54,4 +54,17 @@ hero_media = "hero-academic.png"
 +++
 **An Economic Stimulus Opportunity for Canada**
 
+Together with our partners, PIMS will be offering a 4-week virtual
+Math<sup>Industry</sup> workshop geared to graduate students and
+postdoctoral fellows in mathematical and statistical sciences to gain the
+industry skills needed to have success in their careers.
 
+The workshop will consist of two main components:
+
+1. Technical skills in programming and computational workflows
+2. Business skills for effective teamwork and technical report writing
+
+Attendees will gain hands-on experience as part of a team working on a
+real-world problem posed by an industry partner. If you're a graduate student or
+PDF interested in participating or if you're a PDF, instructor or faculty member
+who is interested in mentoring, please get in touch
