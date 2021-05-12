@@ -3,7 +3,7 @@
 widget = "edition"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 columns = 1
 
@@ -26,7 +26,7 @@ date_format = "2006"
   date_start = "2021-08-01"
   date_end = ""
   description = """
-We are now accepting proposals for new projects. Please <a href="#contact">contact us</a> for more information.
+We are currently accepting proposals for new projects. Please <a href="#contact">contact us</a> for more information.
   """
 
 [[edition]]
@@ -37,7 +37,7 @@ We are now accepting proposals for new projects. Please <a href="#contact">conta
   date_end = "2020-08-30"
   description = """
 Projects, reports, team members and other details are available on the [Math<sup>Industry</sup> 2020 page](/2020/).
-##### 2020 Industry Partners
+.
 * Aerium Analytics Inc.
 * ATCO Ltd.
 * BC Financial Services Authority
