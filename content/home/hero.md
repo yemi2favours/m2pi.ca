@@ -55,7 +55,7 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 **August 3-27, 2021**
 
 Together with our partners, [PIMS](https://www.pims.math.ca) is excited to offer
-a 4-week virtual Math<sup>Industry</sup> workshop geared for graduate students
+a 4-week virtual Math<sup>Industry</sup> workshop for graduate students
 and postdoctoral fellows in the mathematical and statistical sciences to gain
 the industry skills needed for success in their careers.
 
@@ -65,6 +65,7 @@ This workshop has two main objectives:
 2. To build business skills for effective teamwork and technical report writing
 
 Attendees will gain hands-on experience as part of a team working on a
-real-world problem posed by an industry partner. If you're a graduate student, or
-PDF interested in participating or if you're a PDF, instructor or faculty member
-who is interested in mentoring, please get in touch.
+real-world problem posed by an industry partner. If you're a graduate student,
+or PDF interested in participating or if you're a PDF, instructor or faculty
+member who is interested in mentoring, please get in touch. Potential industry
+partners can also [contact us](#contact) to learn more or propose projects.
