@@ -36,17 +36,17 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
-  label = "Participant Survey"
-  icon_pack = "fas"
-  icon = "users"
+#[cta]
+#  url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
+#  label = "Participant Survey"
+#  icon_pack = "fas"
+# icon = "users"
   
-[cta_alt]
-  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
-  label = "Mentor Survey"
-  icon_pack = "fas"
-  icon = "chalkboard-teacher"
+#[cta_alt]
+#  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
+#  label = "Mentor Survey"
+#  icon_pack = "fas"
+#  icon = "chalkboard-teacher"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -65,7 +65,5 @@ This workshop has two main objectives:
 2. To build business skills for effective teamwork and technical report writing
 
 Attendees will gain hands-on experience as part of a team working on a
-real-world problem posed by an industry partner. If you're a graduate student,
-or PDF interested in participating or if you're a PDF, instructor or faculty
-member who is interested in mentoring, please get in touch. Potential industry
-partners can also [contact us](#contact) to learn more or propose projects.
+real-world problem posed by an industry partner. Potential industry partners
+can also [contact us](#contact) to learn more or propose projects.
