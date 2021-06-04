@@ -27,6 +27,10 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Mathematics
+    institution: McGill University
+  - course: MSc in Mathematics
+    institution: McGill University
 
 social:
 
