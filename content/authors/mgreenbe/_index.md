@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Mathematics
+role: Associate Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
@@ -24,6 +24,8 @@ organizations:
 bio: 
 
 interests:
+  - Statistical and Machine Learning
+  - Computational and Statistical Genomics
 
 education:
   courses:
