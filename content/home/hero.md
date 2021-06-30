@@ -38,7 +38,7 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e"
-  label = "Register"
+  label = "Apply"
   icon_pack = "fas"
   icon = "users"
   
