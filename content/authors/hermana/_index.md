@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Allen W. Herman
+title: Allen Herman
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS Site Director
+role: Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
@@ -37,6 +37,12 @@ education:
     institution: University of Lethbridge
 
 social:
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Allen_Herman4
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/drallenherman
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "aherman@math.uregina.ca"
@@ -48,6 +54,8 @@ user_groups:
 
 tags:
 - '2020'
+- '2021'
+
 ---
 Currently my research activity revolves around realization problems in ordinary
 and integral representation theory of groups and closely-related rings, which
