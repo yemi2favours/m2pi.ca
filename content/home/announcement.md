@@ -1,9 +1,9 @@
 +++
 # Hero widget.
-widget = "announcement"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+widget = "announcement"
+headless = true
+active = true
+weight = 1
 
-title = "Now accepting projects for [M2PI 2021](/post/one-pager/)"
+title = "Now accepting participant registration for see below for more details or [Apply now](https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e)"
 +++

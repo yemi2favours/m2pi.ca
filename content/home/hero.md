@@ -36,11 +36,11 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-#[cta]
-#  url = "https://survey.ucalgary.ca/jfe/form/SV_bvjOdszlcRNLSrb"
-#  label = "Participant Survey"
-#  icon_pack = "fas"
-# icon = "users"
+[cta]
+  url = "https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e"
+  label = "Apply"
+  icon_pack = "fas"
+  icon = "users"
   
 #[cta_alt]
 #  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
@@ -67,3 +67,8 @@ This workshop has two main objectives:
 Attendees will gain hands-on experience as part of a team working on a
 real-world problem posed by an industry partner. Potential industry partners
 can also [contact us](#contact) to learn more or propose projects.
+
+Applications will close on **July 16 at 5 pm Pacific**.  Participants will be
+notified of their acceptance to the program no later than July 20, 2021, and
+will be expected to accept their registration immediately (no later than July
+26, 2021).
