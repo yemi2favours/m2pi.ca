@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS Director
+role: Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
