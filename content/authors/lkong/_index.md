@@ -17,8 +17,8 @@ role: Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary
-  url: "https://ucalgary.ca"
+- name: University of Alberta
+  url: "https://ualberta.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -40,7 +40,7 @@ education:
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lkong@ucalgary.ca"
+email: "lkong@ualberta.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
