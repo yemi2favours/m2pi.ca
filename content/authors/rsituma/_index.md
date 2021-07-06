@@ -44,7 +44,6 @@ email: "ruths@pims.math.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
-  role: Program Manager
 tags:
 - '2020'
 - '2021'
