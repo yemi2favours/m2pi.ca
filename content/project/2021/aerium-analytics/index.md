@@ -20,7 +20,7 @@ summary: |
   and potholes, is there a way that machine learning and computer vision could
   not only detect cracks but also classify their severity? 
 
-authors: []
+authors: ["hardeman"]
 tags: ["2021"]
 categories: []
 date: 2021-07-10T16:57:49-07:00
