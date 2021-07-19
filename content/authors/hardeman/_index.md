@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Heather Hardeman-Vooys
+title: Heather Vooys
 
 # Username (this should match the folder name)
 authors:
@@ -47,4 +47,5 @@ user_groups:
 
 tags:
 - '2020'
+- '2021'
 ---
