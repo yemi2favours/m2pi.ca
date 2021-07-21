@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Office of the CTO
+role: Director of Artificial Intelligence and Machine Learning
 
 Organizations/Affiliations:
 organizations:
