@@ -21,7 +21,9 @@ organizations:
 #bio: |
 
 interests:
-- Research Computing
+- Scientific computing
+- High performance computing
+- Open source software advocacy and development
 
 education:
   courses:
@@ -39,6 +41,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MHBurle 
+- icon: globe
+  icon_pack: fas
+  link: https://marie-helene-burle.netlify.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "marie.burle@westgrid.ca"
