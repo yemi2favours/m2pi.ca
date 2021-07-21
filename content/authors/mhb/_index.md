@@ -22,7 +22,7 @@ organizations:
 
 interests:
 - Scientific computing
-- High performance computing
+- Machine Learning
 - Open source software advocacy and development
 
 education:
@@ -67,5 +67,6 @@ coding practices and more reproducible workflows in science. She started to
 contribute to the open source community, became a Software and Data
 Carpentry Instructor, and worked at the SFU Research Commons providing
 programming support to researchers. She now teaches research computing
-tools at WestGrid. When not behind a computer, Marie loves reading history
-books and looking for powder in the British Columbia backcountry on skis.
+tools and machine learning at WestGrid. When not behind a computer, Marie
+loves reading history books and looking for powder in the British Columbia
+backcountry on skis.
