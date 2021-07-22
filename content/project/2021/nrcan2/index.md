@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NRCAN - Batch image analysis for automated classification of marked and unmarked beetles"
+title: "NRCAN - Canadian Forest Services - Batch image analysis for automated classification of marked and unmarked beetles"
 
 summary: |
 
