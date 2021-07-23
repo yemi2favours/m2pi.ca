@@ -1,7 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NRCAN - Canadian Forest Services - Batch image analysis for automated classification of marked and unmarked beetles"
+title: "NRCAN - Canadian Forest Services 2"
+subtitle: |
+  Optimizing marking techniques for mark-recpature studies of mountain pine
+  beetles
 
 summary: |
 

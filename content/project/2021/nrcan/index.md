@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NRCAN - Canadian Forest Services - Modelling Long Distance Insect
-Dispersal Patterns"
+title: "NRCAN - Canadian Forest Services 1"
+subtitle: "Modelling Mountain Pine Beetle Dispersal"
 summary: |
   Insect dispersal is often divided into two classes: local and long distance.
   Local dispersal is the most common dispersal mode and because many individuals

@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TheoryMesh"
-
+subtitle: |
+  Developing optimal production and sustainability models for food supply chains
 summary: |
   Producing food and other goods sustainability is the greatest challenge of our
   generation. To produce food sustainably there are many factors to consider
