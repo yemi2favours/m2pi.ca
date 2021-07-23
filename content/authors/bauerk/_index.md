@@ -47,8 +47,6 @@ email: "bauerk@ucalgary.ca"
 user_groups:
 - committee: organizing
   role: Chair
-- committee: instructors
-  role: Effective Teams Instructor
 tags:
 - '2020'
 - '2021'
