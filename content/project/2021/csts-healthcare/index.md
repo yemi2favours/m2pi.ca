@@ -1,7 +1,9 @@
 ---
-
 title: "CSTS Healthcare"
-subtitle: Therapy Similarity Measures
+subtitle: |
+  Personalized Medicine: Developing metrics for comparing treatment protocols,
+  relating treatment protocols to personal biological data; comparing treatments
+  selected by AI with treatments selected by physicians
 summary: |
   Cancer is a disease that affects 14M people each year. While we have had some
   success with specific cancers, many patients are put on a roller coaster of

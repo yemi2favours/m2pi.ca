@@ -1,6 +1,8 @@
 ---
 
 title: "Serious Labs"
+subtitle: |
+  Developing heavy equipment simulations for smooth hydraulic operation
 summary: |
   Realtime simulators in virtual reality are a leading-edge technology to
   provide standardized training and evaluation that contribute to

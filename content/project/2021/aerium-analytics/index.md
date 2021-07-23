@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Aerium Analytics"
+subtitle: "AI for road surface scanning"
 summary: |
   Roads are a vital component of today’s society. They not only connect us to
   different cities, towns, provinces, and countries, but they also provide of a
