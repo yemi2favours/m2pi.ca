@@ -51,6 +51,7 @@ email: "aherman@math.uregina.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
+  role: Program Director
 
 tags:
 - '2020'
