@@ -1,6 +1,7 @@
 ---
 
 title: "IOTO International"
+subtitle: Developing/testing performance metrics for politicians
 summary: |
   Performance metrics in sports have seen remarkable growth and development.
   What if we turned some of these mathematical tools on political performance?

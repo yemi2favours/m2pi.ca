@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mcmillan Mcgee"
+subtitle: "Heat based soil remediation"
 summary: |
   McMillan-McGee have developed induction heating technology for in-situ soil
   remediation.  As such, we have developed heater casings, work coils, and

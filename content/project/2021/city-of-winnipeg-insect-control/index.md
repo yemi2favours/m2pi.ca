@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "City of Winnipeg - Insect Control Branch"
+subtitle: Modelling mosquito populations
 summary: |
   The [City of Winnipeg’s Insect Control
   Branch](https://winnipeg.ca/publicworks/insectcontrol/default.stm) (ICB) of
