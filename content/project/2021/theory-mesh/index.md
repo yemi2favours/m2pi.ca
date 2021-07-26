@@ -62,3 +62,16 @@ this project is to develop a model which can take into account factors
 end-to-end in the food supply chain to inform decisions on methods (organic,
 traditional, vertical, etc.) and sustainability indicators (green house gases,
 etc.).
+
+### Data Sources
+We will be using a combination of the following data sources:
+
+  * Open data available from a variety of sources (i.e. USDA, AWS)
+  * Data captured from IoT sensors
+  * Satellite image data
+
+
+### Technical Skills
+  * Experience with Excel
+  * Knowledge of Python or other coding languages
+  * Familiarity with Internet of Things devices, i.e. Raspberry PI and sensors
