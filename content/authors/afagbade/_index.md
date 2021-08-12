@@ -13,7 +13,7 @@ role: PhD candidate
 Organizations/Affiliations:
 organizations:
 - name: University of Wyoming
-  url:http://www.uwyo.edu
+  url: http://www.uwyo.edu
 
 # A list of your interests, add as many as you want
 interests:
@@ -45,8 +45,8 @@ social:
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/adeyemi-richard-f-29154965/
 - icon: globe
-#  icon_pack: fas
-#  link: https://m2pi.ca
+  icon_pack: fas
+  link: https://m2pi.ca
 
 
 user_groups:
