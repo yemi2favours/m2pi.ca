@@ -77,9 +77,6 @@ reimplement everything in Fortran.
 The most common alternative is the
 [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) + [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) workflow. This is a very popular pattern which lets people _propose_ changes and then discuss them with the project maintainers until everyone is happy.
 
-The basic steps are usually something like...
-  1. Fork the repo for yourself Repo -> Create Branch in Fork -> Add Changes -> Make Pull Request
-```
 If you remember Marie's discussion of git, when you clone a repository, a
 clone is a *complete* working copy including the entire project history
 (commits) from the original. When you Fork a repository on github a clone of the
@@ -88,15 +85,14 @@ your fork (you have write permission on it) but crucially it will share a common
 history with the original. This means your changes can be isolated, reviewed and
 ultimately merged. In practice the workflow typically goes like this
 
-  1. You make a fork of `m2pi/super-project` as `myusername/super-project`
-  2. You make a new branch on your fork. Most new work happens in branches so
+  1. Make a fork of `m2pi/super-project` as `myusername/super-project`
+  2. Make a new branch on your fork. Most new work happens in branches so
      that you can keep things tidy
-  3. You open a pull request for your new branch against the main branch of
+  3. Open a pull request for your new branch against the main branch of
      `m2pi/super-project`
-  4. The m2pi admins look at your changes
-     i. They'll make comments on your pull request and maybe request changes
-     ii. You'll discuss your changes with them and push any updates to your
-     branch
+  4. The m2pi admins look at your changes. They'll discuss your changes via
+     comments on the pull request. They might request you make changes and push
+     new commits to your branch.
   5. When everyone is happy the m2pi admins will merge your pull request which
      will update the original `m2pi/super-project` repository. Job Done!
 
@@ -108,27 +104,29 @@ pattern.
 
 #### Pull Requests: In Practice
 
+Please follow the steps below to complete this part of the training:
+
 1. Visit the [m2pi.ca github repository](https://github.com/pimsmath/m2pi.ca). In
-the top right hand corner, hit the "fork" button.
-1. If you are asked "Where should we fork m2pi.ca" select your GitHub account
+the top right hand corner, hit the `fork` button.
+1. If you are asked "Where should we fork m2pi.ca" select _your_ GitHub account
 
-GitHub will give you a message that it is forking m2pi.ca for you. When it is
-finished it will take you to *your fork* of the m2pi.ca website. If you look at
-the repository name in the top right it will say something like
-"`username/m2pi.ca` forked from `pimsmath/m2pi.ca`".
+GitHub will say it is forking m2pi.ca for you. When it is finished it will take
+you to *your fork* of the m2pi.ca website. If you look at the repository name in
+the top right it will say something like "`yourusername/m2pi.ca` forked from
+`pimsmath/m2pi.ca`".
 
-There are a few ways to complete the steps below. I'll do it directly through
-GitHub but if you have already set up your ssh keys for GitHub you can do this
-quickly on the CLI.
+> There are a few ways to complete the steps below. I'll do it directly through
+> GitHub but if you have already set up your ssh keys for GitHub you can do this
+> quickly on the CLI.
 
 We should create a new feature branch before making any changes.
 
 1. At the top left of the repository, click on the branch button, it will
-   currently say "master".
+   currently say `master`.
 1. In the little dialog that opens add a new branch name. Something like
-   yourusername-new-profile will work (replacing your username). Avoid spaces or
-   other special characters in the branch name.
-1. Below where you added the new name click `create branch:
+   `yourusername-new-profile` will work (replacing `yourusername`). Avoid spaces
+   or other special characters in the branch name.
+1. Below the text area click `create branch:
    yourusername-new-profile`
 1. This will create a new branch in your fork of the repo on GitHub. The branch
    button should now display your branch name.
@@ -138,7 +136,7 @@ We are ready to add the new profile information.
 1. Click on `content -> authors`. Each of the folders/directories shown
    corresponds to a user profile on the website. **Make sure you are in the
    right directory before proceeding**.
-1. Click "Add file -> Create new file". This will open up a basic text editor on
+1. Click `Add file -> Create new file`. This will open up a basic text editor on
    GitHub asking for a filename. We need to create a folder with your github
    username and a file called "index.html" inside that folder. It isn't obvious
    how to create a folder, but if you type your github username in the filename
@@ -199,7 +197,7 @@ Some notes about the syntax of the file:
    necessary. Make sure to update at least your name, github username and
    affiliation.
 1. Be very careful with syntax. YAML is sensitive to errors. The syntax for
-   keys is `key: value` and whitespace matters!
+   keys is `key: value`. whitespace and case matter!
 1. At the bottom of the file (after the last `---`) you can add a freeform
    paragraph using MarkDown to describe yourself.
 
@@ -212,8 +210,8 @@ is going. Make sure it says the name of your new branch (e.g.
 You should be looking at the GitHub File brower again and the breadcrumb at the
 top of the page should say something like
 `m2pi.ca/content/authors/YourGitHubUsername`. Assuming it does, the last task is
-to add a profile picture of yourself. Save the file as `avatar.jpg` somewhere on
-your computer. 
+to add a profile picture of yourself. Please try to find a photo of yourself
+somewhere and save the file as `avatar.jpg` somewhere on your computer. 
 
 1. Select `Add file -> Upload File`.
 1. In the dialog that opens up, click `Choose your files`, then browse your
@@ -222,10 +220,10 @@ your computer.
    your feature branch and hit `Commit Changes`.
 
 If all has gone well, GitHub will have noticed that you have a new feature
-branch and offer to help you make a pull request. Click the Green "Compare and
-Pull Request" button. In the new window which opens you will be sending a
+branch and offer to help you make a pull request. Click the Green `Compare and
+Pull Request` button. In the new window which opens you will be sending a
 message to the m2pi admins. Add a message describing your changes and hit the
-green "Create Pull Request" button.
+green `Create Pull Request` button.
 
 In a typical workflow you would now be expected to keep an eye on that pull
 request for any discussion with the project maintainers. This can sometimes be a
@@ -259,7 +257,7 @@ host simple websites (e.g. resume sites or project sites).
 1. Change background image and color
 1. Push repo to github
 1. Connect repo to netlify
+1. Specify netlify config in `netlify.toml`
 1. Create a branch and add mathjax
 1. Preview deploy branch
-1. Add mathjax via head-additions.html
-1. 
+1. Merge PR to publish to live site.
