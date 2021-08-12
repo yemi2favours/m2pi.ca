@@ -18,7 +18,7 @@ organizations:
 # A list of your interests, add as many as you want
 interests:
 - CFD simulations
-- - Stochastic modeling of turbulence
+- Stochastic modeling of turbulence
 - Scientific Machine Learning
 - Survival analysis
 
