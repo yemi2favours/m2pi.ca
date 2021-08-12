@@ -138,9 +138,10 @@ We are ready to add the new profile information.
    right directory before proceeding**.
 1. Click `Add file -> Create new file`. This will open up a basic text editor on
    GitHub asking for a filename. We need to create a folder with your github
-   username and a file called "index.html" inside that folder. It isn't obvious
-   how to create a folder, but if you type your github username in the filename
-   box then type a forward slash (`/`) GitHub should understand what you mean.
+   username and a file called `_index.html` (the underscore is important!)
+   inside that folder. It isn't obvious how to create a folder, but if you type
+   your GitHub username in the filename box then type a forward slash (`/`)
+   GitHub should understand what you mean. Add `_index.md` as the filename.
 1. In the body of the file paste the following text
 ```
 ---
@@ -186,6 +187,10 @@ social:
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/carloscontrerasc/
 
+user_groups:
+- committee: members
+  role: Project 1 member
+
 tags:
 - '2021'
 ---
@@ -193,13 +198,17 @@ This is a freeform text area which supports markdown syntax. Fill in a couple of
 sentences describing yourself.
 ```
 Some notes about the syntax of the file:
-1. Fields are specified as `key: value` pairs. Look at each field and updated if
-   necessary. Make sure to update at least your name, github username and
-   affiliation.
-1. Be very careful with syntax. YAML is sensitive to errors. The syntax for
-   keys is `key: value`. whitespace and case matter!
-1. At the bottom of the file (after the last `---`) you can add a freeform
-   paragraph using MarkDown to describe yourself.
+1. There are two parts of the file: Metadata and Markdown. The Metadata makes up
+   most of the file and is enclosed between lines containing three dashes
+   (`---`). Fields inside the metadata area use YAML syntax.
+1. Most of the YAML fields are specified as `key: value` pairs. Look at each
+   field and updated if necessary. Make sure to update at least your name,
+   github username and affiliation.
+1. Be very careful with syntax. YAML is sensitive to errors. whitespace and case
+   matter!
+1. At the bottom of the file (after the last `---`) you enter the markdown
+   area. You can add a free-form paragraph in markdown format to describe
+   yourself.
 
 At the bottom of the webpage you will see a space for a commit message and some
 options. Add a short commit message in the first box e.g. "Adding profile for
