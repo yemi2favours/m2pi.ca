@@ -19,7 +19,8 @@ organizations:
 interests:
 - CFD simulations
 - Stochastic modeling of turbulence
-- Scientific Machine Learning
+- Numerical Analysis
+- Scientific Machine Learning and Data science
 - Survival analysis
 
 # Your educational history, add as many as you want
