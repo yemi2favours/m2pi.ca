@@ -21,7 +21,7 @@ interests:
 - Stochastic modeling of turbulence
 - Numerical Analysis
 - Scientific Machine Learning and Data science
-- Survival analysis
+- Survival and Regression analysis
 
 # Your educational history, add as many as you want
 education:
